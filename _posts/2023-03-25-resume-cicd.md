@@ -160,6 +160,6 @@ Now that your bucket contains your resume.pdf, in the console or cli we will wan
 
 Create a PAR with the Permit object reads access type to the pdf object.  You can make the expiration like 10 or more years into the future.  When you create it, there will be a secret URL created, make sure you copy this down as it will be your public URL to the pdf.
 
-For example my URL to read my Resume is https://objectstorage.us-phoenix-1.oraclecloud.com/p/9zSOm_Gk-v0hyUJWbfeq2iiBcuZ4iZE4xR71u8UhhQCEcJ6E8cZJFHppxM7Ao9aI/n/axlhfpsumuyq/b/mbucket/o/MatthewLamResume.pdf
+For example my URL to read my Resume is [https://objectstorage.us-phoenix-1.oraclecloud.com/p/9zSOm_Gk-v0hyUJWbfeq2iiBcuZ4iZE4xR71u8UhhQCEcJ6E8cZJFHppxM7Ao9aI/n/axlhfpsumuyq/b/mbucket/o/MatthewLamResume.pdf](https://objectstorage.us-phoenix-1.oraclecloud.com/p/9zSOm_Gk-v0hyUJWbfeq2iiBcuZ4iZE4xR71u8UhhQCEcJ6E8cZJFHppxM7Ao9aI/n/axlhfpsumuyq/b/mbucket/o/MatthewLamResume.pdf)
 
 Now, everytime you make a change to your resume this Github Action will compile and overwrite the pdf in object storage with the latest version and it will be available to share with the PAR.
