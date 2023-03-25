@@ -124,18 +124,21 @@ OCI_CLI_REGION
 
 Once you have created Github Actions Secrets for each of these, in the yaml set the enviroment variables for the job.
 
+{% raw %}
 ```yaml
 jobs:
   build_latex:
     runs-on: ubuntu-latest
     env:
-      OCI_CLI_USER: '${{ secrets.OCI_CLI_USER }}'
+      OCI_CLI_USER: ${{ secrets.OCI_CLI_USER }}
       OCI_CLI_TENANCY: ${{ secrets.OCI_CLI_TENANCY }}
       OCI_CLI_FINGERPRINT: ${{ secrets.OCI_CLI_FINGERPRINT }}
       OCI_CLI_KEY_CONTENT: ${{ secrets.OCI_CLI_KEY_CONTENT }}
       OCI_CLI_REGION: ${{ secrets.OCI_CLI_REGION }}
     steps:
 ```
+{% endraw %}
+
 
 Then add the step to put the pdf into the bucket using the [oci cli with the arguments](https://docs.oracle.com/en-us/iaas/tools/oci-cli/3.24.0/oci_cli_docs/cmdref/os/object/put.html)
 
