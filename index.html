@@ -1,8 +1,17 @@
 ---
 layout: default
 ---
+<div>
+  <section>
+    <h3>Hello, I'm Matt.</h3>
+    <p>
+      I'm a Software Engineer/Site Reliability Engineer.  On this site you'll see a reflection on my life and hobbies. 
+    </p>
+  </section>
+</div>
 
 <div class="posts">
+  <h3>Recent Posts</h3>
   {% for post in paginator.posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
