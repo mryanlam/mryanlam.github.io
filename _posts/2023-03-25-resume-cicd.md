@@ -112,7 +112,7 @@ Compile latex to pdf using [Github Action for LaTeX](https://github.com/marketpl
 
 Finally, we need to upload to resulting pdf to our OCI Object Storage bucket using [Run an Oracle Cloud Infrastructure (OCI) CLI command](https://github.com/marketplace/actions/run-an-oracle-cloud-infrastructure-oci-cli-command). As a prerequisite to using this action,
 we need to have some ENV variables set.  The values will be injected
-from [Github Actions Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets#creating-encrypted-secrets-for-a-repository).
+from [Github Actions Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets#creating-encrypted-secrets-for-a-repository).  Create a Secret for each with values from the OCI config you created above.
 
 ```
 OCI_CLI_USER
