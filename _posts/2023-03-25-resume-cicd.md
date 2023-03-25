@@ -81,8 +81,7 @@ on:
 jobs:
   build_latex:
     runs-on: ubuntu-latest
-    env: []
-    steps: []
+    steps:
 ```
 
 Next we will add the step to Checkout the repo using [actions/checkout](https://github.com/marketplace/actions/checkout).
