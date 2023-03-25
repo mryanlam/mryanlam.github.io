@@ -129,7 +129,7 @@ jobs:
   build_latex:
     runs-on: ubuntu-latest
     env:
-      OCI_CLI_USER: ${{{{ secrets.OCI_CLI_USER }}}}
+      OCI_CLI_USER: '${{ secrets.OCI_CLI_USER }}'
       OCI_CLI_TENANCY: ${{ secrets.OCI_CLI_TENANCY }}
       OCI_CLI_FINGERPRINT: ${{ secrets.OCI_CLI_FINGERPRINT }}
       OCI_CLI_KEY_CONTENT: ${{ secrets.OCI_CLI_KEY_CONTENT }}
