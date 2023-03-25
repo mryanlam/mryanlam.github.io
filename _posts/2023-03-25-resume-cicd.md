@@ -124,12 +124,12 @@ OCI_CLI_REGION
 
 Once you have created Github Actions Secrets for each of these, in the yaml set the enviroment variables for the job.
 
-```
+```yaml
 jobs:
   build_latex:
     runs-on: ubuntu-latest
     env:
-      OCI_CLI_USER: ${{ secrets.OCI_CLI_USER }}
+      OCI_CLI_USER: ${{{{ secrets.OCI_CLI_USER }}}}
       OCI_CLI_TENANCY: ${{ secrets.OCI_CLI_TENANCY }}
       OCI_CLI_FINGERPRINT: ${{ secrets.OCI_CLI_FINGERPRINT }}
       OCI_CLI_KEY_CONTENT: ${{ secrets.OCI_CLI_KEY_CONTENT }}
@@ -149,7 +149,7 @@ Then add the step to put the pdf into the bucket using the [oci cli with the arg
     - name: Run an Oracle Cloud Infrastructure (OCI) CLI command
         uses: oracle-actions/run-oci-cli-command@v1.1.1
         with:
-          command: os object put --bucket-name ${{ secrets.OCI_BUCKET }} --file resume.pdf --name YOURNAME.pdf --content-type application/pdf --force
+          command: os object put --bucket-name YOURBUCKET --file resume.pdf --name YOURNAME.pdf --content-type application/pdf --force
 ```
 
 You can view my full build.yaml [here](https://github.com/mryanlam/resume/blob/master/.github/workflows/build.yml)
