@@ -1,8 +1,8 @@
 ---
 title: "CI/CD for LaTeX Resumes"
 date: 2023-03-25
-description: " CI/CD for LaTeX Resumes using Github Actions and OCI."
-summary: " CI/CD for LaTeX Resumes using Github Actions and OCI."
+description: "CI/CD for LaTeX Resumes using Github Actions and OCI."
+summary: "CI/CD for LaTeX Resumes using Github Actions and OCI."
 tags: ["Technical", "CICD", "Cloud"]
 ---
 
