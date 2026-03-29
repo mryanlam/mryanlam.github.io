@@ -19,6 +19,10 @@ enableEmoji = true
 
 googleAnalytics = "G-N2XPZ3D07X"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [pagination]
   pagerSize = 100
 
