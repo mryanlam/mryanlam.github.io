@@ -1,0 +1,4 @@
+# Hugo generated folders
+/public/
+/resources/_gen/
+.hugo_build.lock
