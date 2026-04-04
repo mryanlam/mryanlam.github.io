@@ -15,7 +15,9 @@ In November/December 2024, I journeyed to Tokyo, Japan, primarily to witness the
 
 ### Day 1: Tokyo Touchdown!
 ---
-{{< carousel images="day1/*" aspectRatio="4-3" interval="2500" >}}
+{{< gallery >}}
+  {{< oci_gallery day="day_1" >}}
+{{< /gallery >}}
 
 Today, my Tokyo adventure finally began! After a seemingly endless flight from JFK, I touched down at Narita Airport, my senses buzzing with anticipation.  The arrival process was a blur of efficiency, and soon I was whisked away on a train, propelled towards the heart of the city.
 

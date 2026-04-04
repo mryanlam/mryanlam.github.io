@@ -1,0 +1,13 @@
+{{ $day := .Get "day" }}
+{{ $class := .Get "class" | default "grid-w50 md:grid-w33 xl:grid-w25" }}
+{{ $jsonFile := .Page.Resources.GetMatch "oci_manifest.json" }}
+
+{{ if $jsonFile }}
+  {{ $data := $jsonFile.Content | transform.Unmarshal }}
+  {{ $images := index $data $day }}
+  {{ range $images }}
+    <img src="{{ .par_url }}" class="{{ $class }}" />
+  {{ end }}
+{{ else }}
+  <!-- oci_manifest.json not found -->
+{{ end }}
