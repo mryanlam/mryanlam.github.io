@@ -22,6 +22,12 @@
   weight = 10
 
 [[main]]
+  name = "Travel Posts"
+  parent = "Blog"
+  pageRef = "tags/travel"
+  weight = 20
+
+[[main]]
   pre = "github"
   name = "GitHub"
   url = "https://github.com/mryanlam/"
