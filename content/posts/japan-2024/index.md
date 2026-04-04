@@ -31,7 +31,9 @@ Ah, the perfect first bite of Tokyo!  As I sipped my Strong Zero and munched on 
 
 ### Day 2: Shibuya Exploration, Arcades, and Tonkatsu
 ---
-{{< carousel images="day2/s*" aspectRatio="4-3" interval="2500" >}}
+{{< gallery >}}
+  {{< oci_gallery day="day_2" >}}
+{{< /gallery >}}
 
 The relentless grip of jet lag pulled me from sleep before the sun had even considered rising. My internal clock was still stubbornly set to JFK time, leaving me wide awake in the pre-dawn quiet of Tokyo. After a futile attempt to find a local breakfast spot—most were still shuttered—I resigned myself to a familiar standby: Starbucks. Fuelled by caffeine, I met up with Alex, and we set off for Harajuku, a district renowned for its unique street style and youth culture. Our destination? Sukiya, a popular gyudon (beef bowl) chain, for a hearty and satisfying breakfast.
 
@@ -41,14 +43,14 @@ Next on the agenda was a shopping spree. We first explored the vast expanse of U
 
 After exploring Shibuya’s vibrant streets, we embarked on a mini-pilgrimage to Tonkatsu Narikura, a highly acclaimed tonkatsu (deep-fried pork cutlet) restaurant. The journey was a bit of a trek, but the promise of culinary excellence kept us going. Upon arrival, we were greeted by the enticing aroma of perfectly fried pork. The restaurant lived up to its reputation; the tonkatsu was simply divine. I, however, may have gotten a little carried away with the ordering. My eyes were definitely bigger than my stomach! The undisputed star of the meal was the chateaubriand katsu—tender, juicy, and utterly melt-in-your-mouth. Despite my best efforts, I simply couldn't finish everything I had ordered.
 
-{{< carousel images="day2/tonkatsu*" aspectRatio="4-3" interval="2500" >}}
-
 The lingering effects of jet lag finally caught up with me, and I retreated to my hotel room for an early night, dreaming of chateaubriand katsu.
 
 
 ### Day 3: Shibuya Encounters and a Michelin Star Dinner
 ---
-{{< carousel images="day3/i*" aspectRatio="4-3" interval="2500" >}}
+{{< gallery >}}
+  {{< oci_gallery day="day_3" >}}
+{{< /gallery >}}
 
 Yet another early morning, courtesy of jet lag. I started my day with a quick and convenient breakfast from FamilyMart—a classic combination of Famichiki and an egg sando.
 
@@ -56,12 +58,12 @@ I decided to focus on a more practical matter: enhancing my arcade gaming experi
 
 The evening brought a stark change of pace. Alex and I had reservations at Ginza Kitagawa, a prestigious Michelin-starred restaurant specializing in Japanese Kaiseki cuisine. Finding the restaurant proved to be a bit of an adventure in itself. Despite relying on Google Maps, we initially ended up on the wrong side of the street, thanks to a slight discrepancy with Alex's GPS. After a brief detour, we finally arrived and were immediately immersed in an atmosphere of refined elegance. Each course of the Kaiseki meal was a work of art, a delicate balance of flavors and textures. For me, the standout dish was undoubtedly the exquisitely prepared steak. It was a perfect culmination to a day of diverse and contrasting experiences in Tokyo.
 
-{{< carousel images="day3/k*" aspectRatio="4-3" interval="2500" >}}
-
 
 ### Day 4: Ikebukuro Arcades and Sunshine City
 ---
-{{< carousel images="day4/ike*" aspectRatio="4-3" interval="2500" >}}
+{{< gallery >}}
+  {{< oci_gallery day="day_4" >}}
+{{< /gallery >}}
 
 Our day began with a quest for curry at Coco Ichibanya in Ikebukuro. Alex, armed with GPS, confidently led the way… only to lead us to the wrong CocoIchi location. A minor navigational mishap, perhaps, but it did land us a bit off the beaten tourist path, giving us a glimpse of a more local side of Ikebukuro. It was a good opportunity to check out how Japanese fast food works, as I got to order from a Japanese menu.
 
@@ -69,12 +71,15 @@ Fueled up and ready for action, we dived headfirst into Ikebukuro's vibrant arca
 
 After our arcade adventures, we made our way to Sunshine City, a sprawling shopping and entertainment complex.
 
-{{< carousel images="day4/s*" aspectRatio="4-3" interval="2500" >}}
 
 Our first stop was a must for any Pokemon fan: the Pokemon Sweets Cafe. We indulged in some adorable and delicious Pokemon-themed treats, capturing the experience with plenty of photos. Sunshine City had much more to offer, though. We explored several other themed stores, including a Detective Conan shop, the Bandai Namco Cross Store (a haven for anime and manga fans), the official Pokemon Center (another essential stop for Pokemon enthusiasts), and even a Sesame Street Store. The variety was astounding, offering a glimpse into Japan's rich pop culture landscape.
 
 ### Day 5: Tuna, Anime, and Omurice: A Tokyo Trio
 ---
+{{< gallery >}}
+  {{< oci_gallery day="day_5" >}}
+{{< /gallery >}}
+
 Our day kicked off with a truly unique experience: a tuna cutting show with all-you-can-eat tuna and all-you-can-drink sake. I'd discovered this hidden gem through the Best Ever Food Review Show on YouTube, and I was eager to experience it firsthand. The restaurant was located in Akihabara, requiring a bit of a trek, but the promise of fresh tuna and flowing sake made the journey worthwhile.
 
 We were seated alongside a friendly Korean couple from the Seattle area, who were traveling with their adorable infant. It was a pleasant surprise to connect with fellow Pacific Northwesterners in the heart of Tokyo. The tuna cutting show itself was a spectacle—a skilled chef wielding an enormous knife, expertly breaking down a massive tuna into perfectly portioned cuts. The sheer size of the fish was impressive, and the chef's precision was mesmerizing. Of course, the real highlight was the tasting. The tuna was incredibly fresh, melting in our mouths with a rich, buttery flavor. Paired with endless pours of sake, it was a truly indulgent and unforgettable culinary experience.
@@ -85,10 +90,18 @@ Our Akihabara exploration continued until Abdul finally arrived in Japan. With t
 
 ### Day 6: Sick Day
 ---
+{{< gallery >}}
+  {{< oci_gallery day="day_6" >}}
+{{< /gallery >}}
+
 Unfortunately, my Tokyo adventures took an unexpected turn today. I woke up feeling decidedly unwell, the telltale signs of a cold making themselves known. With a heavy heart, I had to put my sightseeing plans on hold and dedicate the day to rest and recovery.
 
 ### Day 7: A Culinary Contrast: Pokemon Cafe and Setsugekka Ginza
 ---
+{{< gallery >}}
+  {{< oci_gallery day="day_7" >}}
+{{< /gallery >}}
+
 Feeling much recovered, I was ready to embrace another day of Tokyo's diverse offerings. My first order of business was a bit of practical shopping in Shibuya. Knowing we had reservations at some upscale restaurants, I picked up a smart pair of leather shoes from GU—a necessary addition to my travel wardrobe.
 
 With my footwear situation sorted, I headed to Nihonbashi to meet Alex and Abdul for lunch at the highly anticipated Pokemon Cafe. This wasn't just a meal; it was an experience. I opted for the Eevee rice plate and an Eevee milk tea, both as adorable as they were tasty. The cafe's atmosphere was electric with excitement, but the highlight was undoubtedly the surprise appearance of Pikachu himself. Just like a character dining experience at Disneyland, Pikachu made his way around the cafe, greeting guests at each table with cheerful waves and poses. The excitement reached a peak when Pikachu took center stage for a short but energetic dance performance, much to the delight of everyone in the cafe. It was a delightful dose of lighthearted fun and a perfect way to start the day. https://photos.app.goo.gl/eqJ4LiHxKASFu8X6A
@@ -99,6 +112,10 @@ Setsugekka Ginza lived up to its reputation. The restaurant exuded an atmosphere
 
 ### Day 8: DDR, Michelin Stars, and a Deer Blood Macaron
 ---
+{{< gallery >}}
+  {{< oci_gallery day="day_8" >}}
+{{< /gallery >}}
+
 My first stop was a visit to the Google office, where Abdul and I indulged in some classic arcade action. Unlike some other Google offices where arcade games are free, the setup here was a bit different. While not entirely free, the DDR (Dance Dance Revolution) and IIDX (beatmania IIDX) machines were subsidized, meaning we only had to pay Konami's cut via Paseli (Konami's digital currency). It was a fun way to start the day, reliving some arcade memories.
 
 We were supposed to meet up with Kevin at the Google office, but he was running a bit behind schedule. We didn't end up connecting with him until much later in the day. Our meeting point? Lature, an exceptional Michelin-starred French restaurant known for its unique concept: the chef incorporates game meat that he hunts himself. This added an intriguing layer to the dining experience.
@@ -107,6 +124,10 @@ We had the privilege of enjoying a private room at Lature, creating an intimate 
 
 ### Day 9: Wendys First Kitchen, Sword Art Online Anomoly Quest, and Horse Sashimi
 ---
+{{< gallery >}}
+  {{< oci_gallery day="day_9" >}}
+{{< /gallery >}}
+
 Today's adventure took us to the vibrant district of Shinjuku. We kicked things off with a visit to Wendy's First Kitchen, a Japanese spin on the classic American fast-food chain. I opted for the intriguing "Wild Rock Burger," a unique creation featuring two square burger patties fresh off the grill in place of a bun. It was a delicious but messy proposition, as the lack of a bun made the burger a bit unwieldy! The experience wouldn't be complete without some American-style sides, so I added a melon soda float and chili cheese fries to complete the meal.
 
 After satisfying our American cravings, we ventured into the heart of Shinjuku, specifically the lively Kabukicho district. Here, we stumbled upon something truly special: the Sword Art Online Anomoly Quest at the Tokyo Matrix. This innovative attraction blends the thrill of video games with the challenge of escape rooms. With virtual avatars and weapons at our disposal, we were tasked with solving puzzles and navigating the virtual world.  (I actually saw this on a Trash Taste video on Youtube! Here's the link for anyone interested: https://www.youtube.com/watch?v=oFHpefLaL38)
@@ -119,6 +140,10 @@ This day highlighted the fascinating contrasts that Tokyo, and Shinjuku in parti
 
 ### Day 10: From Tuna to the Unusual: A Tokyo Food and Fun Day
 ---
+{{< gallery >}}
+  {{< oci_gallery day="day_10" >}}
+{{< /gallery >}}
+
 Today was a fascinating mix of refined culinary experiences and quirky cultural explorations. I began the day by meeting up with Alex and heading to Tsukiji, the renowned fish market area of Tokyo. Our destination was Sushidokoro Yamato, a highly regarded sushi restaurant known for its exceptional quality.
 
 The sushi lunch at Yamato was a true highlight. The chefs displayed incredible skill and precision, meticulously crafting each piece of nigiri. The fish was incredibly fresh, simply melting in our mouths with a burst of flavor. My personal favorite was the tuna—rich, buttery, and melt-in-your-mouth delicious. I also tried something new: shirako (cod milt). It was a unique texture and flavor, definitely an adventurous culinary experience. It was a testament to the artistry and dedication of Japanese sushi chefs.
@@ -133,6 +158,10 @@ For dinner, we opted for Chinese food at Wan Zhu Ji, located in the Yodobashi Ca
 
 ### Day 11: Sushi Disappointment, and Michelin-Starred Delight
 ---
+{{< gallery >}}
+  {{< oci_gallery day="day_11" >}}
+{{< /gallery >}}
+
 I met up with Alex and Abdul for lunch at Sushi no Midori in Shibuya. Unfortunately, Eniola had to cancel. While the sushi was decent, it didn't quite live up to the exceptional quality of the sushi I had earlier in the trip. It was a slight disappointment, but still a pleasant meal.
 
 Next on my agenda was a visit to Zoff to get some new glasses. I quickly found a stylish pair of Snoopy frames and had a quick eye exam. The entire process was incredibly efficient; my new lenses were cut and fitted into the frames in about 45 minutes.
@@ -143,6 +172,10 @@ The highlight of the day, however, was yet to come. I retrieved my less-than-ide
 
 ### Day 12: Tekken World Tour, Mom's Touch, and Yakiniku
 ---
+{{< gallery >}}
+  {{< oci_gallery day="day_12" >}}
+{{< /gallery >}}
+
 My day began with a trip to the Tekken World Tour finals in Shibuya. The event was held in the basement floor of the Bellesale First building. Navigating the venue proved a bit challenging, as I struggled to decipher the Japanese signage. I accidentally wandered upstairs initially, encountering a completely different event with its own long queue. After a brief moment of confusion, I finally found the correct entrance and descended into the world of Tekken.
 
 Once inside, I grabbed a quick lunch and settled in to watch some of the Last Chance Qualifier (LCQ) matches. The atmosphere was electric, with players and spectators alike buzzing with excitement. I also had the opportunity to meet Pannokei from the Google fighting game Discord, TNT. It was great to connect with someone from the online community in person.
@@ -155,6 +188,10 @@ The highlight of the evening was our dinner at Yoroniku Ebisu, a renowned yakini
 
 ### Day 13: The Thrill of Tekken and the Joy of Kushikatsu
 ---
+{{< gallery >}}
+  {{< oci_gallery day="day_13" >}}
+{{< /gallery >}}
+
 Today was all about gaming, both virtual and real-world, culminating in a much-anticipated culinary experience. My day began at the Tekken World Tour finals. The atmosphere was electric, filled with the energy of passionate fans and the intense focus of the competitors. There were many exciting moments and nail-biting matches, making for a truly captivating spectacle. However, the venue's seating situation left much to be desired. I ended up standing for the better part of eight hours while watching the games, which was definitely tiring. Despite the lack of seating, the quality of the matches made it worthwhile.
 
 After the tournament concluded, I met up with Abdul in Shinjuku. We had a very specific culinary destination in mind: Kushiya Monogatari. This restaurant holds a special place in my memories, as I had visited the chain during my previous trip to Japan in 2011. I had been eagerly anticipating a return visit, and I was excited to share the experience with Abdul.
@@ -165,6 +202,10 @@ After our satisfying meal at Kushiya Monogatari, we met up with Alex at a nearby
 
 ### Day 14: Asakusa and Tokyo Tower
 ---
+{{< gallery >}}
+  {{< oci_gallery day="day_14" >}}
+{{< /gallery >}}
+
 Later in the day, I shifted my focus to exploring more public spaces in Tokyo. I met up with Alex and Abdul, and we headed to Asakusa, a historic district known for its temples and traditional atmosphere. We visited Senso-ji Temple, a beautiful and iconic landmark. Before reaching the temple, we strolled through Nakamise-dori, a bustling street lined with traditional shops and food stalls. While the food options didn't particularly entice us, we did make a stop for some Asakusa Menchi (deep-fried minced meat patties) and some refreshing ice cream.
 
 After exploring Asakusa, we made our way to Tokyo Tower. A Christmas market was in full swing at the base of the tower, adding a festive touch to the atmosphere. We purchased tickets to the observation deck, eager to take in the panoramic views of the city. The view from the top was breathtaking, offering a stunning perspective of Tokyo's vast urban landscape.
@@ -173,6 +214,10 @@ After enjoying the view from Tokyo Tower, we returned to Shibuya for dinner at O
 
 ### Day 15: Navigating Disneysea
 ---
+{{< gallery >}}
+  {{< oci_gallery day="day_15" >}}
+{{< /gallery >}}
+
 Today was dedicated to experiencing the magic of Disney, Tokyo style. I woke up early and met Alex to embark on our journey to Tokyo DisneySea. The train ride to Maihama Station, the gateway to the Disney Resort, took about an hour. Upon arriving at Maihama, we boarded a charming Mickey Mouse-themed train that circulates around the resort area. I was quite surprised to discover that a one-way trip on this short train line cost over 1,000 yen—a reminder that transportation in Japan can be surprisingly expensive.
 
 We arrived at DisneySea to find a surprisingly large crowd for a weekday. There was even a queue just to enter the park! Despite the crowds, we were determined to make the most of our day. We decided to invest in Disney Premier Access (DPA), which is similar to a one-time FastPass, allowing us to bypass the regular queues for certain attractions. Our first DPA purchase was for Journey to the Center of the Earth, a thrilling and immersive ride unique to DisneySea. We then secured another DPA for Peter Pan's Flight and made a lunch reservation at the Sakura restaurant.
@@ -186,6 +231,10 @@ After our Disney adventure, we returned to Shibuya and met up with Abdul for a l
 
 ### Day 16: Google Hospitality, Shopping Sprees, and a Feast at Rokkasen
 ---
+{{< gallery >}}
+  {{< oci_gallery day="day_16" >}}
+{{< /gallery >}}
+
 Today's agenda was a mix of familiar territory and new discoveries, starting with a return visit to the Google office for lunch. This time, Alex joined us as a guest to experience the office's unique atmosphere and culinary offerings. One of the more interesting features of the Google Shibuya office is the ticket machine at the entrance, just like you'd find at many authentic Japanese ramen shops. It's a neat touch that adds a bit of local flavor to the office environment.
 
 The food at the office, while not exceptional, was decent enough. The ramen and gyoza were the clear standouts among the various options. Another interesting perk was the coffee bar, which offered the unusual but delightful addition of floats—a fun and refreshing treat.
@@ -198,6 +247,10 @@ Finally, we made our way to Rokkasen for a much-anticipated all-you-can-eat yaki
 
 ### Day 17: Winding down with some shopping
 ---
+{{< gallery >}}
+  {{< oci_gallery day="day_17" >}}
+{{< /gallery >}}
+
 After seeing Alex and Abdul off on their Osaka-bound Shinkansen, I braced myself for the Tokyo chill and headed to Shibuya Parco for some retail therapy. My prize? A Japan-exclusive North Face Antarctic parka. Perfect for the weather!
 
 With my new coat in tow, I decided to try the infamous MOS Burger rice burger. I ordered it with fries and vegetables, but the whole experience was a bit of a letdown. The rice patties weren't particularly flavorful, and the absence of ketchup was a major disappointment.
@@ -206,6 +259,10 @@ Thankfully, the Dormy Inn's free ramen, enjoyed later after a quick FamilyMart r
 
 ### Day 18: Google Hospitality, Shopping Sprees, and a Feast at Rokkasen
 ---
+{{< gallery >}}
+  {{< oci_gallery day="day_18" >}}
+{{< /gallery >}}
+
 Today marked the end of my incredible journey through Japan. After checking out of my hotel, I embarked on a long uber ride to Narita International Airport. Narita was a bit far, but I eventually arrived at the airport with plenty of time to spare before my flight.
 
 My destination within Narita was the JAL Sakura Lounge, a haven of comfort and relaxation for JAL's premium passengers. I settled into the lounge and took advantage of the amenities. One of the highlights was the JAL beef curry, a popular and consistently praised offering in the lounge. I helped myself to a generous serving, savoring the rich and flavorful curry. I also enjoyed a few drinks from the lounge's well-stocked bar, taking the opportunity to unwind and reflect on my experiences in Japan. The lounge provided a tranquil escape from the hustle and bustle of the airport, offering comfortable seating, Wi-Fi, and a variety of food and beverage options.
