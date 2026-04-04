@@ -11,9 +11,21 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "Blog"
- pageRef = "posts"
- weight = 10
+  name = "Blog"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Technical Posts"
+  parent = "Blog"
+  pageRef = "tags/technical"
+  weight = 10
+
+[[main]]
+  name = "Travel Posts"
+  parent = "Blog"
+  pageRef = "tags/travel"
+  weight = 20
 
 [[main]]
   pre = "github"
