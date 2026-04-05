@@ -37,6 +37,8 @@ Then came the baptism by H₂O. We decided to get the water rides out of the way
 
 Lunch at the Lost Continent was a necessary cooldown, featuring my kebab salad. After hitting Hagrid's Motorbike Adventure (and shedding a tear for the closed Forbidden Journey), we chugged some essential frozen butterbeer. The group then began to splinter: Nick and Jeff left (not enough Express Pass power), and Mariuxi went shopping.
 
+{{< youtubeLite id="I_w3erDouvw" label="Velocicoaster" >}}
+
 The remaining squad (Nikhil, Evan, and I) leveraged our Unlimited Express Passes to marathon Velocicoaster and Hagrid's. This is where things went sideways. We ate a banana split in Seuss Landing, and I procured a frozen rum and coke from Jurassic Park that was apparently 90% rum. I immediately felt awful, had to throw myself onto a bench, and stabilized the situation with a pizzadog from Marvel Super Hero Island. Rehydrated and cheesed-up, we re-rode Spider-Man and Hulk one last time.
 
 The night ended with a catastrophic dinner decision: Panda Express in CityWalk. Eww. We were too bloated to ride, so we performed the walk of shame back to the hotel.
@@ -74,6 +76,10 @@ The whole group united for Mummy (a great clone of the Hollywood version) and th
 Lunch at Finnegan's was satisfying (onion rings, fish and chips), but decidedly "normal theme park food." Next, The Simpsons Ride—a bit dated, but I enjoyed the ancient Waterworld references. Mariuxi bought a massive pink donut outside and immediately executed a spectacular drop-and-grieve performance while taking a photo. We also hit up Men in Black Alien Attack, a fun shooting ride similar to Buzz Lightyear. I scored the highest of the four of us (me, Nick, Evan, and Nikhil)—a nice win!
 
 We took the Hogwarts Express back to Islands of Adventure for a farewell to Velocicoaster (multiple times, obviously). The night ended with a much-needed Lyft ride to Kpot for AYCE Hot Pot and KBBQ, necessitated by the massive blister that had developed under my left foot. The food was glorious, a well-deserved feast after a near-fatal week.
+
+{{< youtubeLite id="j5omUIHwSaI" label="Jurrasic Park" >}}
+
+{{< youtubeLite id="CWWfv_fZrWk" label="Storm Force Accelatron" >}}
 
 ### Day 5: 🏡 Homeward Bound
 ---
