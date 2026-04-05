@@ -11,6 +11,10 @@ tags: ["Travel", "Japan"]
 Thursday Feb 12, 2026 — Sunday Feb 22, 2026
 {{< /lead >}}
 
+From the neon-soaked streets of Osaka to the frozen shrines of Sapporo, this 19-day marathon was a constant battle between my ambitious itinerary and my survival instincts. I’ve transitioned from being addressed as "Lam-sama" in the luxury heights of Niseko to dragging a suitcase through a Hokkaido blizzard—only to discover a heated underground tunnel I could have used the entire time.
+
+Between hunting for rare vinyl in Shibuya, dominating digital hanafuda in Uji, and surviving a four-hour "descent by increments" on a ski slope, I’ve officially seen it all. I’m heading home smelling like hotel soap and ginger candy, with a suitcase full of Family Mart socks and the absolute certainty that every chaotic, expensive, and nauseating moment was worth it.
+
 ### Day 1: Narita Express to Rock Bottom
 ---
 {{< gallery >}}
