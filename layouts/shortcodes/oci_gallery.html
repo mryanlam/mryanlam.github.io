@@ -6,7 +6,7 @@
   {{ $data := $jsonFile.Content | transform.Unmarshal }}
   {{ $images := index $data $day }}
   {{ range $images }}
-    <img src="{{ .par_url }}" class="{{ $class }}" />
+    <img src="{{ .par_url }}" class="{{ $class }}" loading="lazy" />
   {{ end }}
 {{ else }}
   <!-- oci_manifest.json not found -->
