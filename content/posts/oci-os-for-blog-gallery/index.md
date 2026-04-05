@@ -61,7 +61,7 @@ This automation ensures that your blog galleries are always in sync with your cl
 
 ## 5. The Hugo Shortcode: `oci_gallery`
 
-I created a custom shortcode called `oci_gallery.html` that reads this JSON file and generates standard HTML `<img>` tags.
+I created a custom shortcode called [oci_gallery.html](https://github.com/mryanlam/mryanlam.github.io/blob/master/layouts/shortcodes/oci_gallery.html) that reads this JSON file and generates standard HTML `<img>` tags.
 
 ```html
 {{ $day := .Get "day" }}
