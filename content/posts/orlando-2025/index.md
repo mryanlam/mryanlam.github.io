@@ -11,11 +11,13 @@ tags: ["Travel", "Universal Studios Orlando"]
 Monday Nov 14, 2025 — Wednesday Nov 18, 2025
 {{< /lead >}}
 
+They say theme park vacations are for relaxation, but "they" clearly haven't tried to balance a 90% rum-to-coke ratio with a high-speed sprint to the Velocicoaster. My November trip to Orlando was less of a vacation and more of a tactical exercise in endurance, involving high-stakes lounge raids, a religious experience on a Jurassic coaster, and a very public contribution to the Universal plumbing system. From the high-end scallops of Epic Universe to the "walk of shame" after a Panda Express disaster, here is the unfiltered reality of four days spent chasing thrills, dodging water cannons, and surviving on sheer adrenaline (and the occasional Tums).
+
 ### Day 1: 🍻 Day Zero: We Are Professionals
 ---
 {{< gallery >}}
   {{< oci_gallery day="day_1" >}}
-{{< /gallery >}}
+{{< /gallery >}}    
 
 The journey began not with a noble quest, but with a strategic raid on the Delta Lounge on Friday. We didn't fly first-class, but I certainly ate like it. Chicken, desserts... standard pre-flight fuel. I even managed to smuggle some contraband desserts in a cup to my coworkers, Nikhil and Evan, before boarding the Delta flight to Orlando. That, friends, is commitment.
 
