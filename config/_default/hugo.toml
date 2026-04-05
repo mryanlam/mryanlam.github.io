@@ -11,6 +11,7 @@ defaultContentLanguage = "en"
 
 enableRobotsTXT = true
 summaryLength = 0
+timeout = "600s"
 
 buildDrafts = false
 buildFuture = false
