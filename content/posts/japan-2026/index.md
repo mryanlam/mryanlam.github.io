@@ -8,7 +8,7 @@ tags: ["Travel", "Japan"]
 
 ## Japan 2026
 {{< lead >}}
-Thursday Feb 12, 2026 — Sunday Feb 22, 2026
+Thursday Jan 22, 2026 — Tuesday Feb 10, 2026
 {{< /lead >}}
 
 From the neon-soaked streets of Osaka to the frozen shrines of Sapporo, this 19-day marathon was a constant battle between my ambitious itinerary and my survival instincts. I’ve transitioned from being addressed as "Lam-sama" in the luxury heights of Niseko to dragging a suitcase through a Hokkaido blizzard—only to discover a heated underground tunnel I could have used the entire time.
