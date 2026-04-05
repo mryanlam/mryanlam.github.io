@@ -1,6 +1,6 @@
 ---
 title: "Universal Studios Orlando 2025"
-date: 2025-06-01
+date: 2025-11-20
 description: "My trip to Universal Studios Orlando in 2025."
 summary: "My trip to Universal Studios Orlando, Florida in 2025."
 tags: ["Travel", "Universal Studios Orlando"]
