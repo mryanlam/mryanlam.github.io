@@ -10,7 +10,7 @@ Modern static sites are fast, but hosting hundreds of high-resolution images can
 
 ## Why OCI Object Storage?
 
-OCI Object Storage is an enterprise-grade storage solution that is incredibly cost-effective (often falling within the "Always Free" tier for personal use). By offloading images to the cloud:
+OCI Object Storage is an enterprise-grade storage solution that is incredibly cost-effective—Oracle's **Always Free** tier currently provides up to **20 GB** of storage, which is more than enough for most personal blogs. By offloading images to the cloud:
 - **Repo stays light**: Your Git repository only contains code and configuration.
 - **Global Delivery**: Images are served via Oracle's high-speed backbone.
 - **Organization**: You can manage thousands of files using prefixes and buckets.
@@ -82,9 +82,9 @@ I created a custom shortcode called `oci_gallery.html` that reads this JSON file
 The beauty of this setup is that it plays perfectly with the **Blowfish** theme's built-in gallery shortcode. By wrapping our custom shortcode inside the theme's gallery, we get all the responsive grid styling and lightbox functionality for free:
 
 ```markdown
-{{< gallery >}}
-  {{< oci_gallery day="day_1" >}}
-{{< /gallery >}}
+{{</* gallery */>}}
+  {{</* oci_gallery day="day_1" */>}}
+{{</* /gallery */>}}
 ```
 
 ## Conclusion
