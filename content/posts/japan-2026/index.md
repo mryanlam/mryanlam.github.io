@@ -45,6 +45,8 @@ I hopped the train to Toyosu to meet up with Nick and Vincent for teamLab Planet
 
 Post-art, we trekked over to DiverCity to pay our respects to the giant Unicorn Gundam statue. For lunch, I let an AI pick my meal, and it actually nailed it—a solid tendon (tempura) bowl that finally made me feel like a human being again. We spent the afternoon killing time in the mall before heading to Tokyo Joypolis. We jumped on the Geki-on rhythm game roller coaster, which was a blast right up until my inner ear decided it had reached its quota for the year. I spent the next hour feeling like a spinning top, though I did manage to survive House of the Dead and Attack on Titan without further incident.
 
+{{< youtubeLite id="UQUAj2CVDD8" label="Tokyo Halfpipe" >}}
+
 After some therapeutic junk-shopping at Daiso and losing a battle with the claw machines, we headed to Kushiya Monogatari for dinner. It’s an all-you-can-eat skewer place where they hand you raw food and expect you to be the chef. It’s a bold business model, really. After 90 minutes of watching Nick and Vincent treat their fryers like high school chemistry sets, I was stuffed, exhausted, and ready to go horizontal.
 
 We eventually split up and crawled back to our respective wards. Another day down, and I think I'm finally starting to speak "Tokyo."
@@ -193,11 +195,19 @@ Another day, another city, and another reminder that sometimes the best part of 
 
 I started the morning with a definitive win: a legitimate hotel breakfast buffet. We’re talking kushikatsu alongside French toast—an unholy union of breakfast categories, but one I was more than happy to exploit. After fueling up, I met the guys for lunch at the Osaka Kirby Cafe. I’ll be honest: the food was a culinary catastrophe. It was essentially overpriced starch shaped like a pink puffball. Was it cute? Absolutely. Would I eat there again? Only if I were actively trying to ruin my palate for sport.
 
+{{< youtubeLite id="tjbnZgRa31Q" label="Nara Deer" >}}
+
 We hopped a train to Nara to deal with the local deer population, who are essentially the mob bosses of the city. We spent the afternoon bowing to them—yes, you have to bow, or they lose their minds—and feeding them crackers while they looked at us with absolute indifference. We checked out the massive Todai-ji Temple, where the highlight was watching Nick attempt to shimmy his way through the "lucky Buddha hole" in a wooden pillar. Watching a grown man struggle to fit through a piece of wood for good luck is, frankly, the most spiritual experience I've had all trip.
+
+{{< youtubeLite id="4He_csqFMBw" label="Nara Crawling" >}}
 
 Then came the logistical masterpiece I’d engineered: the Nintendo Museum in Uji. Getting these tickets was like winning the lottery, which is the only reason we agreed to backtrack all the way toward Kyoto despite already having moved to Osaka. Was it worth the headache? Honestly, yes. The history was pure nostalgia bait, and the interactive exhibits were a blast. I absolutely dominated a massive digital hanafuda game against Nick, Takashi, and some unsuspecting strangers. Naturally, I balanced that out by being completely incompetent at the baseball sim, but I’ll take the hanafuda crown.
 
+{{< youtubeLite id="7amxeWP1-nI" label="Nintendo Museum" >}}
+
 We retreated to Namba for yakiniku and the infamous "0-second lemon sour" spot—an all-you-can-drink concept that is every bit as dangerous as it sounds. We capped off the night at the massive Round 1 Spocha, cycling through basketball, archery, and tennis until our bodies gave up. We stayed so late that the trains actually stopped running—a first for us this trip. Faced with the end of the world (or at least the end of public transit), Abdul, Takashi, and I bit the bullet and split a multi-stop Uber back to our respective hotels.
+
+{{< youtubeLite id="JIikU6GicGo" label="Round 1 Spocha" >}}
 
 ### Day 12: Wagyu and Wellness: My Final Osaka Stand
 ---
@@ -241,6 +251,8 @@ I started the day with the usual suspects: a solid breakfast and another round o
 
 Odori Park was genuinely impressive. Seeing entire anime sagas and historical landmarks rendered in giant blocks of snow is a level of dedication I can’t even fathom. They even had a high-energy K-pop performance going on right in the middle of the ice, which was a surreal vibe. I spent the walk snacking on chocolate-covered strawberries, proving once and for all that I am a refined man of culture.
 
+{{< youtubeLite id="7LcXc-oDHUQ" label="Sapporo Snow Festival" >}}
+
 Then came the serious business: The Great Conbini Showdown. We bought a spread of fried chicken and sandwiches from both Family Mart and the Hokkaido-exclusive Seico Mart, washed down with a Soft Katsugen (a local dairy drink that tastes like a delicious fever dream). In the battle of the birds, Family Mart absolutely smoked Seico Mart on the fried chicken. My only regret? I didn't buy a "Hot Chef" t-shirt from Seico Mart. It’s a massive fashion tragedy that will haunt me.
 
 We moved on to Susukino to see the ice sculptures. They were beautiful, though the location in the heart of the entertainment district is… distracting. You’re trying to appreciate the artistry of an ice swan while navigating the neon chaos of the city’s nightlife. We pivoted to Genghis Khan (lamb BBQ) for dinner, which was, without a doubt, the best meal I’ve had in Sapporo. It was so good I almost forgot my feet were frozen.
@@ -258,6 +270,8 @@ The day began with a harsh lesson in "Why you should book JR tickets early." Nic
 From Kutchan, we caught the bus to the Hilton Niseko Village. The station there is tiny, and while we waited for our ride, I bought some popcorn that I can only describe as "aggressively mediocre."
 
 Since it was too early for check-in, we dumped our bags and headed straight to the hotel onsen area to change into our snow gear. It’s a weird feeling to be prepping for an outdoor excursion in a bathhouse, but efficiency is the name of the game. We spent the afternoon on a snowmobile rental excursion—hands down the best thing we’ve done in a while. Ripping through the fresh powder was exactly the adrenaline hit I needed to distract me from my recurring stomach issues.
+
+{{< youtubeLite id="zBZbDW_sL4c" label="Snowmobiling in Niseko" >}}
 
 After the ride, we finally checked in and hit the first-floor lounge for our free welcome drinks. If there’s one thing I’ve mastered on this trip, it’s the fine art of the complimentary hotel beverage.
 
@@ -277,9 +291,13 @@ We geared up, grabbed our lift tickets, and headed for the Niseko Gondola. This 
 
 It took us approximately four hours to reach the bottom. By the time we finally navigated the "descent of a thousand tumbles," it was nearly dinner time. I managed to sneak in one solitary bunny hill run by myself just to remember what it feels like to actually move forward, before helping Nick return his gear and calling it a day.
 
+{{< youtubeLite id="42uzgE-oozA" label="Snow in Niseko" >}}
+
 For dinner, we hit up Baby Crosta for some Roman-style slices. The pizza was legit, and the maitake (dancing mushroom) slice was a surprise highlight—very earthy and a much-needed break from the usual toppings. We followed that up with a massive strawberry banana chocolate crepe from a nearby stand because, after a four-hour "marathon" on a green run, I felt I’d earned every single calorie.
 
 We capped off the night at a convenience store and caught part of a traditional Taiko drum show in Niseko Village. There’s nothing like the thunderous rhythm of giant drums to remind you that even though you spent half a day falling down a mountain, you’re still having a significantly better time than you would be at the office.
+
+{{< youtubeLite id="IKRHtt3kqLo" label="Taiko in Niseko" >}}
 
 ### Day 17: The New Chitose Nerd Circuit and the Last Train Home
 ---
