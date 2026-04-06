@@ -165,6 +165,8 @@ I met up with Abdul and the Boba Snob (Chiping) for the Shinkansen ride back to 
 
 Upon arrival, I leveled up my housing situation and checked into the Conrad Tokyo. If my first few days were "adventure," this was pure "luxury." Checking into the Conrad Tokyo was a spiritual experience. After a week of navigating the "cozy" (read: shoebox-sized) dimensions of urban Japan, walking into this room felt like entering a private cathedral of luxury. It was massive—genuinely more spacious than any hotel room I’ve ever seen in Tokyo. The view? A sprawling, cinematic city skyline that makes you feel like the protagonist of a high-budget tech thriller. But the real MVP of the room wasn't the square footage or the view; it was the bathtub. It was a deep-soak masterpiece, complete with the legendary Conrad rubber duck—the ultimate "I’ve made it" travel trophy.
 
+{{< youtubeLite id="olZ6fUyl2VA" label="Conrad Tokyo" >}}
+
 To cap off the homecoming, Chiping and I had dinner at La Rochelle, the legendary French spot by Iron Chef Sakai. This wasn't just dinner; it was a high-stakes culinary performance. Every course was superb, the service was flawless, and it was the perfect "fine dining" middle finger to the budget-traveler lifestyle. Tokyo, I missed you—and your incredibly expensive, delicious food.
 
 ### Day 11: Chocobo Lattes and the Wagyu Meat-Pocalypse
