@@ -52,10 +52,70 @@ Since we don't want to manually type hundreds of URLs, we use a JSON manifest fi
 
 ## 4. Automated Workflow with OCI Python SDK
 
-While you can manage this process manually via the OCI Console, it's far more efficient to automate it. Using the **OCI Python SDK**, you can write a simple script to:
-1. **Upload**: Scan a local directory of images and upload them with the correct prefixes.
-2. **Generate PARs**: Programmatically create a Pre-Authenticated Request for each image.
-3. **Generate Manifest**: Write the resulting URLs and metadata into the `oci_manifest.json` file for immediate use in Hugo.
+While you can manage this process manually via the OCI Console, it's far more efficient to automate it. Here are the key excerpts from my sync script using the **OCI Python SDK**.
+
+### 📁 Expected Local Structure
+Before running the script, I organize my photos locally to match how I want them grouped in the blog's manifest. The script is designed to traverse a main directory and treat each sub-folder as a separate category (e.g., by day).
+
+**Local structure example:**
+*   `2026_japan/` (The root directory)
+    *   `day_1/`
+        *   `sunset.jpg`
+        *   `sushi_dinner.jpg`
+    *   `day_2/`
+        *   `mt_fuji_hike.jpg`
+
+By "walking" this local directory, the script automatically uses the folder names as keys in our JSON manifest. This allows our Hugo shortcode to easily pull images for a specific day just by referencing the folder name.
+
+### 🔧 Setting Up the Client
+First, we initialize the Object Storage client using the standard OCI configuration file (normally located at `~/.oci/config`).
+
+```python
+import oci
+
+def get_storage_client():
+    # Load config and initialize client
+    config = oci.config.from_file()
+    client = oci.object_storage.ObjectStorageClient(config)
+    namespace = client.get_namespace().data
+    return client, namespace
+```
+
+### 🔐 Programmatic PAR Generation
+The core of the security model is generating a **Pre-Authenticated Request** for each object. This allows the blog to access the images securely without making the bucket public.
+
+```python
+from datetime import datetime, timedelta, timezone
+
+def create_par(client, namespace, bucket, object_name):
+    # Set expiration (e.g., 5 years)
+    expiry_time = datetime.now(timezone.utc) + timedelta(days=PAR_EXPIRY_DAYS)
+    
+    par_details = oci.object_storage.models.CreatePreauthenticatedRequestDetails(
+        name=f"PAR_{object_name.replace('/', '_')}",
+        access_type="ObjectRead",
+        object_name=object_name,
+        time_expires=expiry_time
+    )
+    
+    par_response = client.create_preauthenticated_request(namespace, bucket, par_details)
+    return f"https://objectstorage.us-phoenix-1.oraclecloud.com{par_response.data.access_uri}"
+```
+
+### 🚀 Syncing the Gallery
+Finally, we walk through the local directory, upload any missing images, and populate our JSON manifest.
+
+```python
+for root, dirs, files in os.walk(LOCAL_DIRECTORY):
+    for file in files:
+        # Check if object already exists in OCI
+        if not object_exists(client, namespace, BUCKET_NAME, object_name):
+            print(f"Uploading: {object_name}")
+            with open(local_path, "rb") as f:
+                client.put_object(namespace, BUCKET_NAME, object_name, f)
+                par_url = create_par(client, namespace, BUCKET_NAME, object_name)
+                # Store metadata in manifest results...
+```
 
 This automation ensures that your blog galleries are always in sync with your cloud storage with just a single command.
 
