@@ -53,6 +53,8 @@ To keep the momentum going, we headed over to Shinjuku to meet Eniola at Bar B&F
 
 I kicked off the morning on the Yurikamome line, heading to the massive Tokyo Big Sight for Day 1 of Evo Japan. I was hyped for my Street Fighter 6 pools, but the local talent had other plans for me. I went a swift 0-2, getting bodied first by a Jamie player and then by a Guile who clearly didn't want me to have a nice day. Welcome to Japan, I guess.
 
+{{< youtubeLite id="UYzWUEJ6Nys" label="Evo Japan 2025" >}}
+
 I consoled my wounded pride with a "Five-Star Michelin" lunch from the venue FamilyMart: an Amerikan Doggu and the legendary Famichiki. With my Tekken pool not starting until the evening, I decided to head to Shinjuku to take a break. After some fun, I was back on the train to Tokyo Big Sight.
 
 By the time I got back for Tekken 8, the jet lag hit me like a physical brick. I was vibrating with exhaustion. A Red Bull from one of the roaming promo girls provided a temporary spark, but I was basically playing on 1% battery.
@@ -76,6 +78,8 @@ Hungry and slightly more human, I met up with Abdul in Shibuya for a very tradit
 We spent the afternoon on a high-stakes quest for Mariuxi, hunting through secondhand luxury shops for a specific purse. We WhatsApp’d her from every corner of Shibuya, but despite scouring the racks like professional looters, we came up empty-handed. Sorry, Mariuxi—Tokyo’s thrift game is strong, but the "perfect purse" is an elusive beast.
 
 The redemption arc for the day happened at dinner. I had a reservation at Shibuya Sushi Labo, and man, it delivered. For about $100 (which is a literal steal for the quality), I sat through an outstanding omakase. Fresh, inventive, and way better than any taco—it was the perfect, high-brow end to a low-key day.
+
+{{< youtubeLite id="T1bCugedzDo" label="Shibuya Sushi Labo" >}}
 
 ### Day 5: Pikachu, Gachapon, and Digital Reality Warps
 ---
@@ -121,6 +125,8 @@ Was the Cafe Au Lait float and the strawberry banana pancakes "worth it"? Yes. W
 
 With our blood sugar (and my patience) restored, we pivoted to the Osaka Expo 2025 site. It was like a high-budget school field trip to the future. France brought the fashion, and the USA pavilion felt like the Pacific Science Center on steroids—lots of "touch this" and "learn that" interactive exhibits. I also paid a "diplomatic tax" for a Vietnamese coffee that cost more than my first car, but hey, international relations aren't cheap.
 
+{{< youtubeLite id="IM8qrbEndlI" label="Osaka Expo 2025" >}}
+
 We capped the night at OIMATSU Tempura Suzuki. This was the "redemption arc" meal. Every piece of tempura was so perfectly crisp and light it practically defied gravity. The service was impeccable, the crunch was legendary, and by the end of the night, I had almost—almost—forgiven the guys for the morning pancake delay.
 
 ### Day 8: Bowing Deer, Rice Burgers, and Meeting Rhythm Game Royalty
@@ -148,6 +154,8 @@ But the night didn't end there. Chiping and I went back to Gigo to hunt for some
 {{< /gallery >}}
 
 The day I’d been waiting for finally arrived: Universal Studios Japan (USJ). I rolled up to the gates with Chiping, ready to storm Super Nintendo World and Hogwarts. I had my heart set on the Flying Dinosaur, but the universe had other plans—it was down for repairs. A total buzzkill, but when life gives you closed rollercoasters, you buy a VIP pass and act like you own the place.
+
+{{< youtubeLite id="x8To8D1TU1M" label="Universal Studios Japan" >}}
 
 Since Chiping had his own Express Pass schedule to maintain, I spent the morning as his sidekick until my 3:00 PM VIP Tour kicked off. This was my first time going "Full VIP," and let me tell you, it spoils you for life. Our guide, George, was a legend. We weren't just skipping lines; we were taking literal backstage shortcuts like we were part of the road crew. The only glitch in the Matrix? Yoshi’s Adventure decided to die right as we reached the front of the line. Also, a pro-tip for the "lore" fans: when you go VIP, you skip the beautifully themed queues, so you trade the storytelling for zero wait time. Honestly? Worth it.
 
