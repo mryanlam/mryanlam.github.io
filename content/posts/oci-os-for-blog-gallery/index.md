@@ -152,3 +152,5 @@ The beauty of this setup is that it plays perfectly with the **Blowfish** theme'
 By combining OCI Object Storage with Hugo's powerful data-processing capabilities, you can build media-rich blogs that are both performant and easy to maintain. No more `git push` struggles with 50MB of images!
 
 Check out my [Japan 2024]({{< ref "japan-2024" >}}) post to see this in action!
+
+You can view the script I used to upload images to my oci os [here](https://github.com/mryanlam/mryanlam.github.io/blob/os-script/ocisync.py)
