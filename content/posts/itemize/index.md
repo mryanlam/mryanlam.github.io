@@ -3,7 +3,7 @@ title: "Itemize: The Privacy-First Way to Split Expenses"
 date: 2026-04-12
 description: "Introducing Itemize: The Privacy-First, Frictionless Way to Split Expenses"
 summary: "Introducing Itemize: The Privacy-First, Frictionless Way to Split Expenses"
-tags: ["Technical", "Cloud"]
+tags: ["Technical", "Cloud", "Itemize"]
 ---
 
 # Introducing Itemize: The Privacy-First, Frictionless Way to Split Expenses
