@@ -6,8 +6,6 @@ summary: "Introducing Itemize: The Privacy-First, Frictionless Way to Split Expe
 tags: ["Technical", "Cloud", "Itemize"]
 ---
 
-# Introducing Itemize: The Privacy-First, Frictionless Way to Split Expenses
-
 We’ve all been there: the dinner bill arrives with 12 items, three shared appetizers, and a mix of people who had one drink versus three. Or worse, you’re back from a week-long road trip with a complex web of "who paid for what." Typical expense-splitting apps force you to create accounts, hand over your email, and sync with their servers just to figure out who owes who twenty bucks.
 
 **Today, we’re changing that. Meet Itemize.**
