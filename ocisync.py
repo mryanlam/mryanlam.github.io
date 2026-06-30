@@ -48,9 +48,12 @@ def create_par(client, namespace, bucket, object_name, expiry_days: int, region:
     return f"{base_url}{par_response.data.access_uri}"
 
 def load_manifest(filepath: Path):
-    if os.path.exists(filepath):
-        with open(filepath, 'r') as f:
-            return json.load(f)
+    if os.path.exists(filepath) and os.path.getsize(filepath) > 0:
+        try:
+            with open(filepath, 'r') as f:
+                return json.load(f)
+        except json.JSONDecodeError:
+            pass
     return {}
 
 @app.command()
