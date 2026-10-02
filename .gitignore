@@ -4,3 +4,5 @@
 .hugo_build.lock
 .venv/
 /2026_europe/
+/2026_blizzcon/
+staging/
