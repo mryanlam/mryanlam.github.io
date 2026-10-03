@@ -1,1 +1,100 @@
-{}
+{
+    "day_1": [
+        {
+            "file_name": "luggage.png",
+            "object_path": "2026_blizzcon/day_1/luggage.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/1wP9T585rv4PWMt_gN5_6t7haCABwDfbCN-mkpbhR5DlfQQTaCVXFjk_sF6zwwLv/n/axlhfpsumuyq/b/mbucket/o/2026_blizzcon/day_1/luggage.png"
+        },
+        {
+            "file_name": "sabrosada.png",
+            "object_path": "2026_blizzcon/day_1/sabrosada.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/qRnsksBkSf6O_8dW09MLm_E7s85oFtztVmlTjfjQCA_a4kBUcLe8gK7z-r_TiAC_/n/axlhfpsumuyq/b/mbucket/o/2026_blizzcon/day_1/sabrosada.png"
+        },
+        {
+            "file_name": "lax.png",
+            "object_path": "2026_blizzcon/day_1/lax.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/KBqmWCPLSOJUOW3MYzLrzArAIVP35XFA-8qO577HxA03FrWZQ8UkyDkJuUMpM97W/n/axlhfpsumuyq/b/mbucket/o/2026_blizzcon/day_1/lax.png"
+        }
+    ],
+    "day_4": [
+        {
+            "file_name": "seat.png",
+            "object_path": "2026_blizzcon/day_4/seat.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/D1bKwW5Wwp43I7-zPbG0WTCOrbRx_Wb38PYSgw0O0KmmIg10-4tbErMNB1WxhVLw/n/axlhfpsumuyq/b/mbucket/o/2026_blizzcon/day_4/seat.png"
+        },
+        {
+            "file_name": "delays.png",
+            "object_path": "2026_blizzcon/day_4/delays.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/j7Rv-82UaRSTfFrG8ugXzze_TGIxwdnM76psaPHTFV-E-CPYVbFblJbQKFMvDtm-/n/axlhfpsumuyq/b/mbucket/o/2026_blizzcon/day_4/delays.png"
+        }
+    ],
+    "day_2": [
+        {
+            "file_name": "demo.png",
+            "object_path": "2026_blizzcon/day_2/demo.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/hzbBv7ZzKHqsHg-QVdngJVOCWYJbRE-8Q1ciTlMsLRsoHjga8iKmmRcqqF7m1zjB/n/axlhfpsumuyq/b/mbucket/o/2026_blizzcon/day_2/demo.png"
+        },
+        {
+            "file_name": "pho.png",
+            "object_path": "2026_blizzcon/day_2/pho.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/zM5QExJ6frlxLNTv6FmF5424mh2dLy9LMNA2rJV1NE8qeZL324sIcefbnZOMc7qo/n/axlhfpsumuyq/b/mbucket/o/2026_blizzcon/day_2/pho.png"
+        },
+        {
+            "file_name": "FriedOreos.png",
+            "object_path": "2026_blizzcon/day_2/FriedOreos.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/yqgE7cplMEnbN8ubg28joixED5GdvRgLp7_FOkzZKlSW-FFZha2U0vJDf8FOLaYd/n/axlhfpsumuyq/b/mbucket/o/2026_blizzcon/day_2/FriedOreos.png"
+        },
+        {
+            "file_name": "ConventionCenter.png",
+            "object_path": "2026_blizzcon/day_2/ConventionCenter.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/MWeavSqN9ZvgfdxefNUsOEWIes4pMZ7oKZVLQmvQGuLbadSb9fArjTOxNPxk32Bm/n/axlhfpsumuyq/b/mbucket/o/2026_blizzcon/day_2/ConventionCenter.png"
+        },
+        {
+            "file_name": "OpeningCeremony.png",
+            "object_path": "2026_blizzcon/day_2/OpeningCeremony.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/RWpyUQvodn2O6HkR3nrYGDuobUoBfObj973yuGqqBPqeU-tm3H7dkHNXb9hVVyge/n/axlhfpsumuyq/b/mbucket/o/2026_blizzcon/day_2/OpeningCeremony.png"
+        },
+        {
+            "file_name": "lines.png",
+            "object_path": "2026_blizzcon/day_2/lines.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/kRWPt_Fw771nHFpCD4q9_nkbDbpilPqJMdQ8PjigqGQK-NT-N69cxx0zvdKD_Ohs/n/axlhfpsumuyq/b/mbucket/o/2026_blizzcon/day_2/lines.png"
+        },
+        {
+            "file_name": "CheesecakeFactory.png",
+            "object_path": "2026_blizzcon/day_2/CheesecakeFactory.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/CwQIcwGCXpY6qxLHrOPeeGOZ3M2JGMhey8SVhfg3I1xvtHEHygCOLlOrPGu2Mpmm/n/axlhfpsumuyq/b/mbucket/o/2026_blizzcon/day_2/CheesecakeFactory.png"
+        }
+    ],
+    "day_3": [
+        {
+            "file_name": "demowar.png",
+            "object_path": "2026_blizzcon/day_3/demowar.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/RtzNwYoPnAuuL19xCaJOQaXr6AxFtUyRgv2uYhyJ2MLKMd8ESRFNORc8ZGl6PgP_/n/axlhfpsumuyq/b/mbucket/o/2026_blizzcon/day_3/demowar.png"
+        },
+        {
+            "file_name": "demo.png",
+            "object_path": "2026_blizzcon/day_3/demo.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/3upHEHUNs3Cw2SDN_G4Y9YZe-L-Ztv0g5DJl60Q3eVDoHzOfpXXBEwYnqGGzwfot/n/axlhfpsumuyq/b/mbucket/o/2026_blizzcon/day_3/demo.png"
+        },
+        {
+            "file_name": "quesadilla.png",
+            "object_path": "2026_blizzcon/day_3/quesadilla.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/D9Roq-93m4toUyxZBHIMG4ElcWLNekXLXpNIkG79RaemuLAYtinPu7DiS0ezbTxj/n/axlhfpsumuyq/b/mbucket/o/2026_blizzcon/day_3/quesadilla.png"
+        },
+        {
+            "file_name": "panels.png",
+            "object_path": "2026_blizzcon/day_3/panels.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/Wg4--Nj-MkEp7kwjit-O050T0UinF6zkt5kLVLg4YI22KHA1Foe5oKL4hsh8xhOq/n/axlhfpsumuyq/b/mbucket/o/2026_blizzcon/day_3/panels.png"
+        },
+        {
+            "file_name": "fries.png",
+            "object_path": "2026_blizzcon/day_3/fries.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/GuNimyWiHAz1Te8Nup1zZtruU2ljgyJzevPV5suOfFaVrF2pdw71GXcLLoUj_xFW/n/axlhfpsumuyq/b/mbucket/o/2026_blizzcon/day_3/fries.png"
+        },
+        {
+            "file_name": "guild.png",
+            "object_path": "2026_blizzcon/day_3/guild.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/_J_bAO5t3kBU0q_Y3dxUvcskb71Eh2NLWQLjqYMOpxAC2ofD6NkkPYAP-Wg6A0bg/n/axlhfpsumuyq/b/mbucket/o/2026_blizzcon/day_3/guild.png"
+        }
+    ]
+}

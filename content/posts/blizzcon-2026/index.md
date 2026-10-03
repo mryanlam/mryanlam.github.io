@@ -35,7 +35,7 @@ The opening ceremony itself was great—I really liked the StarCraft and Warcraf
 
 For lunch, we stepped out for a decent meal at a nearby pho restaurant. Afterward, we split up for a bit: Tater headed back to the hotel to rest, while Tenju and I went right back to the WoW demo area to try the new leveling experience. We only managed to hit level 4, but it was fun to explore.
 
-Later in the day, we watched a few panels before returning for another run through the dungeon demo as a trio. This time, I switched over to tanking on Prot Paladin, which went significantly smoother than the morning run. We downed an extra boss before eventually wiping to a massive shark that we were convinced was a boss. We later met up with Mael for dinner, walked over to Cheesecake Factory, and spent the meal discussing the announcements and class changes—where Mael revealed to us that the shark was actually just an environmental hazard with no real loot! We hung out for a while afterward before heading back to sleep.
+Later in the day, we watched a few panels—grabbing some deep-fried Oreos to snack on—before returning for another run through the dungeon demo as a trio. This time, I switched over to tanking on Prot Paladin, which went significantly smoother than the morning run. We downed an extra boss before eventually wiping to a massive shark that we were convinced was a boss. We later met up with Mael for dinner, walked over to Cheesecake Factory, and spent the meal discussing the announcements and class changes—where Mael revealed to us that the shark was actually just an environmental hazard with no real loot! We hung out for a while afterward before heading back to sleep.
 
 ### Day 3: BlizzCon Day 2 – Sarthe's Talent Hack, Quesabirria & Bottle Rocket
 ---
@@ -47,7 +47,7 @@ Another exciting day on the convention floor. We got in two more demo runs today
 
 Later on, we spotted a post online from Sarthe pointing out that you could use legacy talents to unlock capstone abilities in the demo build. Armed with that knowledge, the three of us headed straight back into the demo line and picked up a PUG. I tanked on Prot Warrior this time—it went okay, and with the extra firepower from the capstone talents, we carried the group through three bosses very efficiently, though we ran out of time before taking down the fourth.
 
-For dinner, we met up with a big group—Coup, Aggrend, Mael, Ashler, Helt, and several others—at Bottle Rocket in Anaheim. We spent the evening hanging out, grabbing drinks, eating from the food trucks outside, and talking about everything under the sun.
+For dinner, we met up with a big group—Coup, Aggrend, Mael, Ashler, Helt, and several others—at Bottle Rocket in Anaheim. We spent the evening hanging out, grabbing drinks, ordering loaded fries and food truck eats, taking a guild group photo, and talking about everything under the sun.
 
 ### Day 4: Anaheim Rush Hour, A 6-Hour LAX Delay & Heading West
 ---
