@@ -99,7 +99,13 @@ The wedding was an incredible spectacle. The venue was breathtaking—anchored b
   {{< oci_gallery day="day_6" >}}
 {{< /gallery >}}
 
-Traveling north from Jiaxing to the historic capital of Beijing, settling into our new base, and exploring the surrounding neighborhoods.
+After wrapping up the wedding weekend in Jiaxing, we boarded the high-speed bullet train (G14) for the long journey north to China's historic capital of Beijing. The train stations provided an entertaining glimpse into modern automation—including an autonomous humanoid sentry robot with flashing police lights standing guard alongside an electric mini patrol vehicle. 
+
+One of the coolest highlights of the train ride was trying out China's high-speed rail meal delivery service. By ordering ahead through the railway app, a fresh KFC meal was brought right to the train door at an intermediate station stop and delivered straight to my seat (Car 16, Seat 08A) in an insulated tote bag—complete with a spicy Zinger burger, crispy wings, a Portuguese egg tart, and fruit juice.
+
+Pulling into Beijing, we made our way over to the Grand Hyatt Beijing, welcomed by its dramatic curved glass facade and grand fountain plaza right on Chang'an Avenue near Wangfujing. We set out to explore the bustling Wangfujing area, ducking into a nearby shopping mall where we stumbled across an amusingly tiny four-step escalator bridging split levels. Along our stroll, we treated ourselves to some afternoon refreshments: a fresh strawberry-mango drink in a round bottle from Heytea and tea-infused gelato in a waffle cone from Chagee.
+
+For dinner, we celebrated our first night in the capital with an exquisite Peking roast duck feast at **Made in China (长安壹号)** inside the Grand Hyatt. The meal kicked off with the ultimate delicacy—crackling, paper-thin duck skin served piping hot and dipped directly into granulated white sugar, melting completely on the tongue. We then wrapped tender, roasted duck meat with sweet bean sauce, julienned scallions, and cucumber into warm, delicate steamed pancakes, paired with a smoky plate of dry-fried string beans with minced pork.
 
 ### Day 7: Exploring Beijing – Day 1
 ---
