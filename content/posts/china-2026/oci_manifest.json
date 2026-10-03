@@ -1,1 +1,440 @@
-{}
+{
+    "day_1": [
+        {
+            "file_name": "image.png",
+            "object_path": "2026_china/day_1/image.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/1Y61zN4fv6E31TMWLKKyR4hCookvVyj2WG3tVTXb7cHOz8uauJ_r6X4KFoRREmE7/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_1/image.png"
+        }
+    ],
+    "day_6": [
+        {
+            "file_name": "train_boarding.png",
+            "object_path": "2026_china/day_6/train_boarding.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/Cj1svTgMKsjhqc17NxnXxp2GRYZFoGBBSTydPLVmVYPdBpG1m4QrAotI2Px1Z4og/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_6/train_boarding.png"
+        },
+        {
+            "file_name": "train_robot.png",
+            "object_path": "2026_china/day_6/train_robot.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/tgA1LzHTEVfy8q7vl3Y2gSC55p9xmaDIibYzecbCe9F18UjmqCvJQbViOOHp8FWm/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_6/train_robot.png"
+        },
+        {
+            "file_name": "dinner_veggies.png",
+            "object_path": "2026_china/day_6/dinner_veggies.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/WhhSepw0VUxi-da8y4gk3skVVuK1bCgzicOxlXRodXqcyxqRzNIzdOtVafy6mw9p/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_6/dinner_veggies.png"
+        },
+        {
+            "file_name": "train_kfc_mid_ride.png",
+            "object_path": "2026_china/day_6/train_kfc_mid_ride.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/iKVi08_Zb6EDuRTnkFlJaBprh5mTuQu8VDvNg09cIncIclZs5FJOZA52hEUm-S5_/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_6/train_kfc_mid_ride.png"
+        },
+        {
+            "file_name": "train_snack.png",
+            "object_path": "2026_china/day_6/train_snack.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/gxzMREl9iXNEmJC31XHM1e_N1izrcnTfkBRb05iftZwz3NeXBCJ_Bsedm0ixNN8S/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_6/train_snack.png"
+        },
+        {
+            "file_name": "hyatt.png",
+            "object_path": "2026_china/day_6/hyatt.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/ltBLtLkjXkuXJqHiuYXP1UCvVB83EUW6-McOYVj8K_lYVyxfW58r9sN8QzV777uh/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_6/hyatt.png"
+        },
+        {
+            "file_name": "dinner_skin.png",
+            "object_path": "2026_china/day_6/dinner_skin.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/rIxWxTC01MGxhkDZlj8FdMWuktUCs-4qV6PmupfcfsBWhGBfMKA6z8xCHhAD7zJJ/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_6/dinner_skin.png"
+        },
+        {
+            "file_name": "heytea.png",
+            "object_path": "2026_china/day_6/heytea.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/Kt2Vq4vNGaayC9fJUn8WtkbyImKx6dHsN_npBm_1rg78Wvnk-UbBDcnPYzxoL-eA/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_6/heytea.png"
+        },
+        {
+            "file_name": "dinner_peking_duck.png",
+            "object_path": "2026_china/day_6/dinner_peking_duck.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/IhKwrDcKfiuROGreDJB2IgxixxtKiY3unoecqg54v2vnImFRdXS8qNz0vDWWzP5D/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_6/dinner_peking_duck.png"
+        },
+        {
+            "file_name": "tiny_escalator.png",
+            "object_path": "2026_china/day_6/tiny_escalator.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/BKZgd8YowRUYsKwyDu8Sg7bmPkI6n4s9fI8ZH-H5o64QF12WKD0pgzwBt6ySpEtu/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_6/tiny_escalator.png"
+        },
+        {
+            "file_name": "chageelato.png",
+            "object_path": "2026_china/day_6/chageelato.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/Hrv0boUZDH5C4UUO1bJtSsbiLUElwmfBPAGTCKvZwu9Eq0QkjcsDSn7uMConCKQn/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_6/chageelato.png"
+        },
+        {
+            "file_name": "breakfast.png",
+            "object_path": "2026_china/day_6/breakfast.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/8_QCoOj6Om4fI7o6RPh5N7WMA7n2XVda9dFTqKePUXHkHR4SfjtpAbyVoZCJTXgm/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_6/breakfast.png"
+        }
+    ],
+    "day_4": [
+        {
+            "file_name": "tour_shengjianbao.png",
+            "object_path": "2026_china/day_4/tour_shengjianbao.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/jHR0-rp4CtlgeZMpeoJv4eLH1qSq8RcqsUSY0LzaFg-1xqtonJEi6vlW672xf3Bs/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_4/tour_shengjianbao.png"
+        },
+        {
+            "file_name": "kfc_tea.png",
+            "object_path": "2026_china/day_4/kfc_tea.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/CuAWuC08XNf-zEMyQU_inKTVFdt9AVy87k6k_KSr4OTU6yEuBf2I8DB5pmjqaJXa/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_4/kfc_tea.png"
+        },
+        {
+            "file_name": "lunch.png",
+            "object_path": "2026_china/day_4/lunch.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/92yaO1F5DW5A4aevbHv0f5HV7b5KX6pvNGNPlz5PihGSgIcfwjz2FjW2Eo1vALaC/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_4/lunch.png"
+        },
+        {
+            "file_name": "tour_pork.png",
+            "object_path": "2026_china/day_4/tour_pork.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/G-DhithLPJ-uCwQNAut6WUYtvliF1KdY2YFcRdDoqju0nfpNVRUISnJ7IQy_goJb/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_4/tour_pork.png"
+        },
+        {
+            "file_name": "luckin2.png",
+            "object_path": "2026_china/day_4/luckin2.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/SDy967Fx_l_j81RD3Mk02oVqjSxHGvx1xhMBD0Ou1tdut61g9yBLGl__iqFlz_Nr/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_4/luckin2.png"
+        },
+        {
+            "file_name": "luckin.png",
+            "object_path": "2026_china/day_4/luckin.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/-Hovh4wU0qFzO-5_h6TZCotC4AYpXYR5lOWOzACbrxVFKzkyTUsmHPFbuySFL8Hy/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_4/luckin.png"
+        },
+        {
+            "file_name": "tour_xlb.png",
+            "object_path": "2026_china/day_4/tour_xlb.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/SKbQEGWjPwuOva3RFiZrLKkhjr_2pEp5k9ESRoogSz2s9Ql86VI_bq47-s_JRo3s/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_4/tour_xlb.png"
+        },
+        {
+            "file_name": "bookstore.png",
+            "object_path": "2026_china/day_4/bookstore.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/CVHpcXtYUj9rsViAs35FmX8hUl0UKM_1rjLc2gWY1Z3NqRCEUI7PzKcjdOuDXtYV/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_4/bookstore.png"
+        },
+        {
+            "file_name": "tour_dessert.png",
+            "object_path": "2026_china/day_4/tour_dessert.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/1f8K3zg7CwYt3feafHJM8TjScyVSs8W9qq2TMJncVtdpkV1kiz9pG4VJ2z5Df_Lv/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_4/tour_dessert.png"
+        },
+        {
+            "file_name": "tour_noodles.png",
+            "object_path": "2026_china/day_4/tour_noodles.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/UP4HyIQr2H4-Wx5iCYUdkhhRQYOlcFAhUoA6R-6bIFWyup19gw3YfAHIm_dvKRYr/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_4/tour_noodles.png"
+        },
+        {
+            "file_name": "kfc_tea2.png",
+            "object_path": "2026_china/day_4/kfc_tea2.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/M4nP8cp88kFaeTvSzZDV9OUcKTJyl4OTBSQnzaNNkj5mhr5NvcGl489-O0dDeL1Q/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_4/kfc_tea2.png"
+        },
+        {
+            "file_name": "tour_noodles2.png",
+            "object_path": "2026_china/day_4/tour_noodles2.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/hpMzOKV-2JHTz0FU4dzthwLbdXwEDtNovneI0s1cOYxXOg6ycaOBUAGWGm8vbRfW/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_4/tour_noodles2.png"
+        },
+        {
+            "file_name": "breakfast.png",
+            "object_path": "2026_china/day_4/breakfast.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/ajz4hJjnPzL-cL2QPQzidSKrvJBUIqvJSBY-6I2P0cjOKiVmTQSV0y_NyPjkqY_p/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_4/breakfast.png"
+        },
+        {
+            "file_name": "breakfast2.png",
+            "object_path": "2026_china/day_4/breakfast2.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/CXdililZfVqTkCiXSVlDL9lBtYhn3d-ZO4RThv5tgDJ3ET7BVlaEwBPuCe8ElIXF/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_4/breakfast2.png"
+        }
+    ],
+    "day_9": [
+        {
+            "file_name": "KIX.png",
+            "object_path": "2026_china/day_9/KIX.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/cY1JlaBQIVjDLIzQz31bafj90Ns-6fvX7mRZ_Gstjgl-kQDg3n_UrzX7s3cSc2cZ/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_9/KIX.png"
+        },
+        {
+            "file_name": "lunch_pizzahut_new_orleans.png",
+            "object_path": "2026_china/day_9/lunch_pizzahut_new_orleans.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/SAjUY4Q3la0ETO7rXPhG0cAdiByZe7ki0-FXioT617fHXGy-_WPKQ3t-ZwMht2VS/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_9/lunch_pizzahut_new_orleans.png"
+        },
+        {
+            "file_name": "breakfast_starbucks.png",
+            "object_path": "2026_china/day_9/breakfast_starbucks.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/rN_RChMTFmwVijJ-jgdKB68-ip2aH1IFnBdXoFSm73h-PpIyPhf2OR7s6RRZ12E1/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_9/breakfast_starbucks.png"
+        }
+    ],
+    "day_2": [
+        {
+            "file_name": "solo_leveling2.png",
+            "object_path": "2026_china/day_2/solo_leveling2.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/8nIw_-bKrH6NyK7EtyKSNUGSRe-_VPD9Y0QnmU1i4Z9eimzvyveWPSgt3DUqJVmG/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_2/solo_leveling2.png"
+        },
+        {
+            "file_name": "dinner_appetizer.png",
+            "object_path": "2026_china/day_2/dinner_appetizer.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/VpzNx5kMlX5VsMiT9xWOcqw64_SH1O6qAuFbh9mUCFlEGzijFsWOXlU1IaJ2WFKF/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_2/dinner_appetizer.png"
+        },
+        {
+            "file_name": "lunch_soba.png",
+            "object_path": "2026_china/day_2/lunch_soba.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/WvPpTxuLYJhxIhTfu_mSfYyKJds820wtZy2AKTxaZ4QqK4OK3xQdVTrRaqwG8--G/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_2/lunch_soba.png"
+        },
+        {
+            "file_name": "donut.png",
+            "object_path": "2026_china/day_2/donut.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/Qc0Oquh7RB1Ifuhmgzng9q0PFqXXgX8-9rcYRXbxvzqa_C5Y5tKXUJDUg-lV_bTV/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_2/donut.png"
+        },
+        {
+            "file_name": "google_view.png",
+            "object_path": "2026_china/day_2/google_view.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/9Q3DYqbPBFoEIhUjfCDCXHBZDbQDqgd_4WSLWuO4u6yEB8TmhOEnCwtSXKOGAHKA/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_2/google_view.png"
+        },
+        {
+            "file_name": "dinner.png",
+            "object_path": "2026_china/day_2/dinner.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/5RBtHwbQ7392XWiK9LHXXr62pMKOpi2g_XzpadYtY7K2gzXDWRgRyb4oFRawQYQ5/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_2/dinner.png"
+        },
+        {
+            "file_name": "laundry.png",
+            "object_path": "2026_china/day_2/laundry.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/FXyPilfVjvDM1PGkLem_cTwE5Ihiryz2HyY-eTz3S--7oo06AFcdHSxTHw_GXXvf/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_2/laundry.png"
+        },
+        {
+            "file_name": "lunch_duck.png",
+            "object_path": "2026_china/day_2/lunch_duck.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/vQsJVJfEW53cMVHCUBCQ8oLnXlKVkT2DPpOCmhhSkH5K7poT4nZOzRm302jh0XdK/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_2/lunch_duck.png"
+        },
+        {
+            "file_name": "visa.png",
+            "object_path": "2026_china/day_2/visa.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/cGgeGGanizhzKVsBDYAHHDEqJ6NL4hFfg_MlQnsa_jYLeojF7Ok47igyxwXkQzeK/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_2/visa.png"
+        },
+        {
+            "file_name": "solo_leveling.png",
+            "object_path": "2026_china/day_2/solo_leveling.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/gXOO-skqzsWkZ1LEmyhqPYhZq18jh1h6oTf_YTgWrtmcjMH_8-7MRgCS9OE_69dk/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_2/solo_leveling.png"
+        }
+    ],
+    "day_5": [
+        {
+            "file_name": "lunch_dessert.png",
+            "object_path": "2026_china/day_5/lunch_dessert.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/-RlSXFGbw2nMk7EbNrXUTWggN96A9JCfV4eVdSniUvP6_ncH-StCkecDjayEIORG/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_5/lunch_dessert.png"
+        },
+        {
+            "file_name": "lunch_foie.png",
+            "object_path": "2026_china/day_5/lunch_foie.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/jkcy7dMyPstZHdBtzSVMHfTAmCTqXqKKr_vhDxyBLbBQrwORI1czlNpwOwjTKfMS/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_5/lunch_foie.png"
+        },
+        {
+            "file_name": "wedding_venue.png",
+            "object_path": "2026_china/day_5/wedding_venue.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/ptnkW1Ci8GDMy4udUYP2d9R5Nxy9sxK7IFJi3sy9Vi33-loPoWyxtctA8rXAXMN0/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_5/wedding_venue.png"
+        },
+        {
+            "file_name": "lunch_view.png",
+            "object_path": "2026_china/day_5/lunch_view.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/ZHFvbt27y91rHiFkj0Jsaa4mLxwko4CFjzfA_tmfZ0w8-NIS_FUsV7a8QRLtvJHB/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_5/lunch_view.png"
+        },
+        {
+            "file_name": "lunch_steak.png",
+            "object_path": "2026_china/day_5/lunch_steak.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/ZvAkt7r_5mnnF_tSyxPEl-o1o-8UXRjx_jmAgLCk1F0jax-Mzp4laB-9mHfiOiIV/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_5/lunch_steak.png"
+        },
+        {
+            "file_name": "lunch_bread.png",
+            "object_path": "2026_china/day_5/lunch_bread.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/1Rh9zlERbEDAoZ9CPxylUTfpNGPBl0KHQGhklhURntPsAU7MeYjLbRrpxjm8tNpU/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_5/lunch_bread.png"
+        },
+        {
+            "file_name": "breakfast.png",
+            "object_path": "2026_china/day_5/breakfast.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/plHv46WkWlOFMIatyzMhvre2GdMiRIilaofhOHe_RI-hGrQQIfFX0ltnya8FmVEr/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_5/breakfast.png"
+        }
+    ],
+    "day_8": [
+        {
+            "file_name": "disney_store.png",
+            "object_path": "2026_china/day_8/disney_store.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/mYW80EAj-_O647hwAN71JsrNchBpLY31OvP8Dmk7ZLpD4G2TPfLLGxU3oLE_HsJc/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_8/disney_store.png"
+        },
+        {
+            "file_name": "breakfast_jianbing.png",
+            "object_path": "2026_china/day_8/breakfast_jianbing.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/GyJx9sYDIqaAMVaslwc6AUpXXoWK5ZvnFBfFRzXqDWWjB091mBlJtBHMLGHnfRvb/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_8/breakfast_jianbing.png"
+        },
+        {
+            "file_name": "niulai.png",
+            "object_path": "2026_china/day_8/niulai.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/FBOcnNMjP9flEcM3xj6UQ59PDuX7XIfPSZvFNyt7UiybCk4cPXnlounqR0sKAXdv/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_8/niulai.png"
+        },
+        {
+            "file_name": "heytea_black.png",
+            "object_path": "2026_china/day_8/heytea_black.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/n3IJCksUrNgWSxqF2rTDfEHSnqScjpMiChKym7QoyerzFLTze5N-mUpSyIwVR1HC/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_8/heytea_black.png"
+        },
+        {
+            "file_name": "tanghulu.png",
+            "object_path": "2026_china/day_8/tanghulu.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/G8owKoGn1zNUneDt1M-38hsvCOiyZaODGw1XYie_2S1AInnnBswcoKDdzjSnvBpV/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_8/tanghulu.png"
+        },
+        {
+            "file_name": "mollytea.png",
+            "object_path": "2026_china/day_8/mollytea.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/x_PNV5VKIm9Z1RcRqHgUnkKJhOlFH9X7Xa-tSb03Y0niD-LXL0CZyMzvVZa5oseh/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_8/mollytea.png"
+        },
+        {
+            "file_name": "church.png",
+            "object_path": "2026_china/day_8/church.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/FEVhR_TUamlMfamQKiKG2iHRAsZU0qaCK73eBa1FIeFkQNj398UkV3hDa4ulDxF0/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_8/church.png"
+        },
+        {
+            "file_name": "dinner_kfc_oreo.png",
+            "object_path": "2026_china/day_8/dinner_kfc_oreo.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/WLJx7-3VmSX3Pu4NZSgVZvKFi0R-47BFdDlTnEFgcodO2bu_y8-MH-H1ayXXRBc1/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_8/dinner_kfc_oreo.png"
+        },
+        {
+            "file_name": "old_beijing_yogurt.png",
+            "object_path": "2026_china/day_8/old_beijing_yogurt.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/43n7qMG6FQf1EFHRThkyrEWPAEodmpr3DgoF2788mX_OVgkZTgQ-exm9JqCFB4OP/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_8/old_beijing_yogurt.png"
+        },
+        {
+            "file_name": "didi.png",
+            "object_path": "2026_china/day_8/didi.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/znNjEUoyye5jRDyX49xSHnDldSJ1_Z_60XYXbEzaverkcyURxA3WTBzP4sogxeXm/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_8/didi.png"
+        },
+        {
+            "file_name": "shakeshack_china.png",
+            "object_path": "2026_china/day_8/shakeshack_china.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/534BXKoVXWDjpvATWmG5Vv-xRAjOxxuhSXPGkr2Z9fO6Xnb4DC46OUMb1Akh1yOB/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_8/shakeshack_china.png"
+        },
+        {
+            "file_name": "breakfast.png",
+            "object_path": "2026_china/day_8/breakfast.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/bO3mx7f16FCIgKJD3L7ISts6TwmDela2CKxSPUwj7bWoi23Jp0xMLHHPhNevcHaf/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_8/breakfast.png"
+        },
+        {
+            "file_name": "dinner_duck_tastien.png",
+            "object_path": "2026_china/day_8/dinner_duck_tastien.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/MLeEm-zR5xgswCeVUp1mbmk1IrtET4aXzk69igGapImWLwrIdcgUDbMF8WoP5kbS/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_8/dinner_duck_tastien.png"
+        }
+    ],
+    "day_3": [
+        {
+            "file_name": "sanriocafe.png",
+            "object_path": "2026_china/day_3/sanriocafe.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/PWbLoMxvyZvCxllPTAYJl0jw6lM3v00OzVOlEje_xLREqsksZNPgWaEc9rxVh7su/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_3/sanriocafe.png"
+        },
+        {
+            "file_name": "chinese_dinner.png",
+            "object_path": "2026_china/day_3/chinese_dinner.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/oKVi_6HNSkiqBT21PovAeIqNfLx_t9ZaBYs7LOr7RIV66LMLpXjr3_9vLiu0dwdX/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_3/chinese_dinner.png"
+        },
+        {
+            "file_name": "shanghai.png",
+            "object_path": "2026_china/day_3/shanghai.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/QwvP45-pP3FWxjZiJbl4FSTz9LZWaQoU8m88KFQ5HGGvJhkGzQNnV_uL3zycNqtA/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_3/shanghai.png"
+        },
+        {
+            "file_name": "lounge.png",
+            "object_path": "2026_china/day_3/lounge.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/RE6z1p7s62ELshQldP66qO84KRzkHWS0Hiar6srJL0oXxX8bTmHdHxVtqvbtdk5T/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_3/lounge.png"
+        },
+        {
+            "file_name": "mcdonalds.png",
+            "object_path": "2026_china/day_3/mcdonalds.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/CPDgo2McOoS84HdopI-E9P1ur277QbSKrkKiYffuANIj5KXSLupkvhXfj9ioenVh/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_3/mcdonalds.png"
+        },
+        {
+            "file_name": "airport.png",
+            "object_path": "2026_china/day_3/airport.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/AnMuV--6q6lW-48eFf5QduzypPKMs5nhLerzgA9w4xjQ4UspyTAaLcbdMA1IwRlt/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_3/airport.png"
+        },
+        {
+            "file_name": "ahma_handmade.png",
+            "object_path": "2026_china/day_3/ahma_handmade.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/l52CwBcKhmkK_c3bv1fobLu47zYvE8quuYYL6q0lIGHFaC4AZMbEIDA5eNxhc3Fy/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_3/ahma_handmade.png"
+        }
+    ],
+    "day_7": [
+        {
+            "file_name": "dinner_manchu_buns.png",
+            "object_path": "2026_china/day_7/dinner_manchu_buns.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/I-p7uLOXjkeTmo6iPJuZSnYFEnisNXTZEd1-gPv7lD8ihKcc11yoP9Y1RnqgzHEc/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_7/dinner_manchu_buns.png"
+        },
+        {
+            "file_name": "bird_nest.png",
+            "object_path": "2026_china/day_7/bird_nest.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/igehfn9sC4Pcp4TGP146H510MX_bkAKeRhzU7cpDb-4mofrNi0xOBJqLADsELnN2/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_7/bird_nest.png"
+        },
+        {
+            "file_name": "greatwall4.png",
+            "object_path": "2026_china/day_7/greatwall4.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/7fDW82gpHDDa0xa5z7uKfZO8ZFXK2DHdXNJ30NqZnT3dn0YvSP58HUM7bgXyxHyd/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_7/greatwall4.png"
+        },
+        {
+            "file_name": "chestnuts.png",
+            "object_path": "2026_china/day_7/chestnuts.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/_D-s3TpSZbuULGBLZcXa6dTJvkLfHkWZdgD67RfjTH7R6djVs5w6J_kS9_pdFtlb/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_7/chestnuts.png"
+        },
+        {
+            "file_name": "lunch_tomato_egg.png",
+            "object_path": "2026_china/day_7/lunch_tomato_egg.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/CLq6SwfjByquyext-9sAlRqFm2pFj_yPxr_Co05JYfgedcnzHLjn33AGbWSGuK7n/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_7/lunch_tomato_egg.png"
+        },
+        {
+            "file_name": "tower.png",
+            "object_path": "2026_china/day_7/tower.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/J5T31OgsLwr9OT6g_CMFEgqXFDNe86VyNxzj05m7qWvIPHjDXLmOzOB3Ai64dj6Q/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_7/tower.png"
+        },
+        {
+            "file_name": "greatwall.png",
+            "object_path": "2026_china/day_7/greatwall.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/WtE5b6RMMd46J-t-PBzYxaphkoH7XPcPFSYAWSZxHx0rBZmt17kRp4d7cJv4b1VC/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_7/greatwall.png"
+        },
+        {
+            "file_name": "greatwall3.png",
+            "object_path": "2026_china/day_7/greatwall3.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/l6o4WNxuSppr5DWnUB0nyEfOmeLSsyTa-vQ5L9Mo6WYBL84z0JhB3RWYlfvHpTea/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_7/greatwall3.png"
+        },
+        {
+            "file_name": "dinner_kung_pao_chicken.png",
+            "object_path": "2026_china/day_7/dinner_kung_pao_chicken.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/NLZQmybJLpx4MhOXeMfCkWEe8WsjTd91Vrjt3iT2fQfXeTsWfR4jRM5zB7snKErf/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_7/dinner_kung_pao_chicken.png"
+        },
+        {
+            "file_name": "dinner_hotpot.png",
+            "object_path": "2026_china/day_7/dinner_hotpot.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/i3CMyw_VHbCbOMs1rlwpruhQEVIjMLv4cbPd81UUNABtOv7i8H4FeFDe6i8VsdYa/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_7/dinner_hotpot.png"
+        },
+        {
+            "file_name": "lunch2.png",
+            "object_path": "2026_china/day_7/lunch2.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/oJ4yx4fdN2QYFg34G6iIxBabX2jjuJEJDv26sUbGdQKpgwSoLDKQ0KfIGSmL5J-Y/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_7/lunch2.png"
+        },
+        {
+            "file_name": "dinner_chun_bing.png",
+            "object_path": "2026_china/day_7/dinner_chun_bing.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/yyBJA709voSjOXN7HGJy_zVrmhspujhBR-qCFPenX98E00GzTvA7uJ8Vejr-m5yz/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_7/dinner_chun_bing.png"
+        },
+        {
+            "file_name": "mutianyu.png",
+            "object_path": "2026_china/day_7/mutianyu.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/CuzbH41ctiYzy-Gqy_aDRIHs_9xgbvlMy3AugmHmV6Af3aRsZcriUNQB-fG6m-Ph/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_7/mutianyu.png"
+        },
+        {
+            "file_name": "dinner_black_bean_noodles.png",
+            "object_path": "2026_china/day_7/dinner_black_bean_noodles.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/8oOELit-74rGPGPtK1jSaQqWNAtOnzOX17wmlUC5x5i5LQWj1_D-MvzO4zUEf8wq/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_7/dinner_black_bean_noodles.png"
+        },
+        {
+            "file_name": "dinner_cucumber_salad.png",
+            "object_path": "2026_china/day_7/dinner_cucumber_salad.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/x5qe5N3VsDxI44Oq22o1ReasH6_kPFYpvJXtFABPPI8DXYspwaK-UZSFC46Uybto/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_7/dinner_cucumber_salad.png"
+        },
+        {
+            "file_name": "nanluoguxiang.png",
+            "object_path": "2026_china/day_7/nanluoguxiang.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/M7djHPDpXkC9qLPVzg3wqfROHL5L6WcOTwSOf8R4sAFWjOQ-MznZtvVPB2pM3YG1/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_7/nanluoguxiang.png"
+        },
+        {
+            "file_name": "greatwall2.png",
+            "object_path": "2026_china/day_7/greatwall2.png",
+            "par_url": "https://objectstorage.us-phoenix-1.oraclecloud.com/p/vqpGeDElcCnj2nvuzFCoEf3Y9_CFJxNLRQcTz--F9_YpwG95pfa6SD9BenfNAr7z/n/axlhfpsumuyq/b/mbucket/o/2026_china/day_7/greatwall2.png"
+        }
+    ]
+}
