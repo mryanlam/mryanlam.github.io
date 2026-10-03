@@ -1,6 +1,7 @@
 ---
 title: "Japan Fall 2026"
 date: 2026-10-02
+draft: true
 description: "A week in Osaka and Tokyo, and the long journey home."
 summary: "Week 2 of my Asia trip: Touching down in Osaka fresh from Beijing, bullet training back to Tokyo, and heading home via Vancouver and Seattle."
 tags: ["Travel", "Japan"]

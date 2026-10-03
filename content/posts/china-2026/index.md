@@ -1,6 +1,6 @@
 ---
 title: "China & The Tokyo Stopover 2026"
-date: 2026-10-02
+date: 2026-10-03
 description: "A week across Tokyo, Shanghai, Jiaxing, and Beijing."
 summary: "Week 1 of my Asia trip: A quick stopover in Tokyo, crossing into China for Shanghai street food, a friend's wedding banquet in Jiaxing, and exploring Beijing before flying out to Osaka."
 tags: ["Travel", "China", "Japan"]
