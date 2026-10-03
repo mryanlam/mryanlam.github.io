@@ -5,7 +5,8 @@
 .venv/
 /2026_europe/
 /2026_blizzcon/
-/2026_china_japan/
+/2026_china/
+/2026_japan_fall/
 staging/
 
 # Editor / Workspace files
