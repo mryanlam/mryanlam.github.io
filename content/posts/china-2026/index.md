@@ -19,7 +19,7 @@ The first week of an epic transpacific journey. Kicking off with an initial Toky
   {{< oci_gallery day="day_1" >}}
 {{< /gallery >}}
 
-After the massive six-hour delay back at LAX, our flight finally touched down at Narita Airport late in the evening. Stepping off the plane, I was greeted by an absolute travel miracle: the foreign passport immigration lines were completely deserted. I walked straight through without waiting a single minute.
+After the massive six-hour delay back at LAX, our flight finally touched down at Narita Airport late in the evening. As I rode the escalator down past the giant, cheerful Nintendo "Welcome to JAPAN" mural featuring Mario and Toad, I was greeted by an absolute travel miracle: the foreign passport immigration lines were completely deserted. I walked straight through without waiting a single minute.
 
 Because of the severe flight delays, the Narita Express had already shut down for the night. Thinking fast, I pivoted over to the Keisei Skyliner, taking it into Nippori before transferring onto the Yamanote Line to Shibuya. I finally dragged my bags into the Shibuya Stream hotel and checked in at 11:30 PM. Running on pure fumes and jet lag, all I could do was collapse onto the bed and pass out.
 
@@ -31,11 +31,13 @@ Because of the severe flight delays, the Narita Express had already shut down fo
 
 Jet lag showed no mercy, waking me up bright and early at 5:00 AM. Since Shibuya Stream has a dedicated laundry room on the 11th floor, I took advantage of the pre-dawn hours to get a full load of laundry washed and folded.
 
-Stepping outside, the rain was coming down pretty heavily. I decided to pop into Starbucks downstairs for breakfast, ordering a chocolate banana donut and a sweet potato frappe. The donut was solid, but the sweet potato drink was strange—and worse, I discovered too late that it was completely caffeine-free. Needing an actual caffeine fix to start my day, I headed up to the Google office on the 35th floor to rescue myself with a proper espresso from the coffee bar.
+Stepping outside, the rain was coming down pretty heavily. I decided to pop into Starbucks downstairs for breakfast, ordering a chocolate banana donut and a sweet potato frappe. The donut was solid, but the sweet potato drink was strange—and worse, I discovered too late that it was completely caffeine-free. Needing an actual caffeine fix to start my day, I headed up to the Google office on the 35th floor to rescue myself with a proper espresso from the coffee bar while taking in the moody, rain-soaked panoramic skyline view.
 
-Fully awake, I ducked into local arcades and wandered through MEGA Donki for some shopping. For lunch, I found a comforting soba restaurant inside Tokyu Plaza, then headed upstairs in the same building to check out the Solo Leveling anime exhibition. The walkthrough featured impressive art and full-scale sculptures from the series. After another stroll through the rain, exhaustion caught up with me and I headed back to the hotel for an afternoon reset nap.
+Fully awake, I ducked into local arcades and wandered through MEGA Donki for some shopping. Along the way, I stumbled upon a lively outdoor Visa promotional booth ("What Will You Win?"). Naturally, I joined in the fun, threw on a festive blue Visa festival happi coat, posed with a "TOKYO" sign, and ended up scoring a neat prize.
 
-For dinner, I stayed dry by walking through the indoor connection from the hotel into Shibuya Scramble mall, sitting down for a warm and satisfying shabu shabu meal.
+For lunch, I stopped into a soba restaurant inside Tokyu Plaza, pairing the noodles with a fantastic appetizer of seared duck breast, charred leek, tamagoyaki, and yuzu kosho. Afterward, I headed upstairs in the same building to check out the Solo Leveling anime exhibition. The walkthrough featured impressive artwork, weapon displays, and full-scale statues of Sung Jinwoo wielding his dual daggers. After another stroll through the rain, exhaustion caught up with me and I headed back to the hotel for an afternoon reset nap.
+
+For dinner, I stayed completely dry by taking the indoor pedestrian connection from the hotel directly into the Shibuya Scramble mall. We sat down for a wonderful shabu shabu dinner that kicked off with a creative monaka wafer tartare and savory mousse appetizer before diving into the hot pot meats.
 
 ### Day 3: Haneda T2 to Shanghai & East Nanjing Road
 ---
@@ -49,7 +51,7 @@ At Haneda, I checked out the Power Lounge Premium in the Terminal 2 internationa
 
 The flight into Shanghai was smooth and uneventful. Passing through customs was quick, my visa was stamped without issue, and my mobile data connected immediately. I hopped onto the Shanghai Metro toward the city center—it was fascinating to see airport-style luggage scanners at the subway entrance, but the tap-to-pay convenience was effortless.
 
-Upon arriving at my hotel, I was pleasantly surprised to receive an upgrade to a room with a fantastic river view. Chiping met me at the hotel, and together we headed over to East Nanjing Road pedestrian shopping street to link up with Abdul. We stopped by Ah Ma's Handmade for tea featuring handmade mochi instead of standard boba, and Chiping walked us through ordering at a Chinese McDonald's, where I tried a wild burger stacked with an egg, fried salmon, and fried shrimp. After browsing through various stores along the strip, we capped off the evening with a food court dinner of roasted chicken, vegetables, and more tea.
+Upon arriving at my hotel, I was pleasantly surprised to receive an upgrade to a room with a fantastic river view. Chiping met me at the hotel, and together we headed over to East Nanjing Road pedestrian shopping street to link up with Abdul. We stopped by Ah Ma's Handmade for tea featuring handmade mochi instead of standard boba, and Chiping walked us through ordering at a Chinese McDonald's, where I tried a wild burger stacked with an egg, fried salmon, and fried shrimp. We also checked out a themed Sanrio Cafe along the shopping strip, treating ourselves to an adorable Hello Kitty strawberry cake and a purple Kuromi katsu curry. After browsing through various stores, we capped off the evening with a food court dinner of roasted chicken, vegetables, and more tea.
 
 ### Day 4: The Bund, Crab Roe Noodles & Shanghai Street Food Tour
 ---
@@ -59,11 +61,19 @@ Upon arriving at my hotel, I was pleasantly surprised to receive an upgrade to a
 
 I kicked off the morning by taking full advantage of the extensive hotel breakfast buffet, which featured an impressive spread spanning traditional Chinese dishes, Indian specialties, Japanese bites, and Western staples. Fueled up, I took a scenic morning stroll along the iconic Bund and worked my way westward along East Nanjing Road.
 
-Along the way, I got baited by anime store decor into ordering a Luckin Coffee with orange juice—a flavor combination that turned out to be truly vile. I cleansed my palate with some retail therapy, designing a custom shirt at the Jordan store.
+Along the way, I got baited by anime store decor into ordering a Luckin Coffee with orange juice—a flavor combination that turned out to be truly vile. I cleansed my palate with some retail therapy, designing a custom shirt at the Jordan store. Later on the pedestrian strip, I checked out "爷爷自在茶" (Grandpa's Tea)—a standalone specialty tea kiosk by KFC—grabbing a refreshing iced tea in an ornate pastel pink cup.
 
 Later on, I met up with Abdul on West Nanjing Road, and we sat down for an incredible lunch of rich crab roe noodles and crab xiao long bao. As light rain began to fall, we ducked into Shanghai Book World, an expansive multi-story bookstore with a dedicated music floor where I scored a G.E.M. vinyl/CD album. Heading back toward Pudong, I checked out a nearby mall and managed to find the coveted Shanghai-exclusive Adidas track jacket in my size.
 
-In the evening, I joined a guided food tour led by Tony, an energetic guide who grew up in Korea and spent time living in Boston. The group was an international mix of Australians, Europeans, and Americans—and by pure coincidence, two other tour guests were also Googlers, with one of them (Ben) working in my exact same building! Together, we ate our way through Shanghai's culinary highlights: soup-filled xiao long bao, crispy pan-fried sheng jian bao, fragrant scallion oil noodles, curry noodles, tender braised pork belly, and sweet mango coconut desserts, capping the night off with drinks at a nearby bar.
+In the evening, I joined the **Lost Plate Shanghai Evening Food Tour** led by Tony, an energetic guide who grew up in Korea and spent time living in Boston. The group was a great international mix of Australians, Europeans, and Americans—and by pure coincidence, two other tour guests were also Googlers, with one of them (Ben) working in my exact same building! 
+
+Tony led us through a phenomenal progression of local Shanghainese eats:
+- **Xiaolongbao**: Steaming bamboo baskets of delicate soup dumplings packed with rich, savory broth.
+- **Dong Tai Xiang (东泰祥生煎馆)**: A stop at this time-honored intangible cultural heritage institution for their legendary semi-fermented *shengjianbao* (crispy-bottom pan-fried pork buns), fragrant scallion oil noodles tossed with dried shrimp (*葱油开洋拌面*), shredded egg crepe broth, and beef noodle soup.
+- **Benbang Family-Style Banquet**: Gathered around a traditional round table and lazy Susan with cold Guangming beer, where the centerpiece was an incredible glossy tower of Shanghainese *Hongshao Rou* (红烧肉 - red-braised pork belly braised with quail eggs), accompanied by seasonal edamame, stir-fried greens, and savory rice cakes.
+- **Dessert**: Refreshing bowls of *Yangzhi Ganlu* (杨枝甘露 - Mango Pomelo Sago) overflowing with sweet diced mango chunks and citrusy pomelo pulp.
+
+We capped off the fantastic night sharing stories over drinks at a nearby neighborhood bar.
 
 ### Day 5: Jade on 36, High-Speed Rail to Jiaxing & The Wedding
 ---
@@ -71,11 +81,17 @@ In the evening, I joined a guided food tour led by Tony, an energetic guide who 
   {{< oci_gallery day="day_5" >}}
 {{< /gallery >}}
 
-Knowing a big food day was ahead, I kept breakfast light at the hotel and hit the 4th-floor gym for a strength training session to build up an appetite. For lunch, I used my hotel dining credits at Jade on 36, enjoying an exceptional French lunch special overlooking the city skyline.
+Knowing a massive food day was ahead, I kept breakfast light at the hotel and hit the 4th-floor gym for a strength training session to build up an appetite. For lunch, I put my hotel dining credits to great use at **Jade on 36** atop the Pudong Shangri-La, settling in beside floor-to-ceiling windows with a sweeping panoramic view across the Huangpu River to the Bund. 
 
-After checking out, I reunited with Abdul at Shanghai Hongqiao Railway Station to catch the high-speed bullet train to Jiaxing for Chiping and Ning's wedding. Once in Jiaxing, we took a quick DiDi to our hotel, got checked in, and dressed up for the ceremony.
+The French set menu was outstanding from start to finish:
+- **Bread Service**: Warm, crusty French bread served alongside an artisanal trio of flavored butters (herb, plain, and beetroot).
+- **Appetizer**: Rich, pan-seared foie gras complemented by crisp green apple textures, apple purée, and a delicate jus.
+- **Main**: A beautifully cooked medium-rare beef tenderloin steak with a glossy red wine reduction, silky potato purée, and roasted mushroom mousseline.
+- **Dessert**: A crisp, layered classic mille-feuille alongside a light cream dessert cup crowned with an intricate lattice tuile leaf.
 
-The wedding was an incredible spectacle—a modern Chinese celebration complete with a main stage, an energetic MC, and interactive game-show segments with audience raffles and prizes. Course after course of banquet dishes flowed to the tables throughout the festivities. After celebrating with the newlyweds and friends, we headed back to the hotel to rest up for our upcoming trip to Beijing.
+After checking out, I reunited with Abdul at Shanghai Hongqiao Railway Station to catch the high-speed bullet train over to Jiaxing for Chiping and Ning's wedding. Arriving in Jiaxing, we took a quick DiDi to our hotel, got settled in, and suited up for the celebration.
+
+The wedding was an incredible spectacle. The venue was breathtaking—anchored by an opulent stage framed by cascading floral arrangements, glowing circular chandeliers, and an illuminated flower-lined runway where we snapped photos with Chiping looking sharp in his tuxedo. The evening unfolded like a high-energy production with an entertaining MC, interactive game-show segments with audience raffles, and course after course of banquet delicacies flowing to every table. It was wonderful celebrating the newlyweds with friends before heading back to rest up for the next chapter of the journey north to Beijing.
 
 ### Day 6: Journey North to Beijing
 ---
