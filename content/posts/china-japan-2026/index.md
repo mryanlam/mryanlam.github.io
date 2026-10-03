@@ -29,11 +29,11 @@ Because of the severe flight delays, the Narita Express had already shut down fo
   {{< oci_gallery day="day_2" >}}
 {{< /gallery >}}
 
-Jet lag showed no mercy, waking me up bright and early at 5:00 AM. Since Shibuya Stream has a dedicated laundry room on the 11th floor, I took advantage of the pre-dawn hours to get a full load of laundry washed and folded. 
+Jet lag showed no mercy, waking me up bright and early at 5:00 AM. Since Shibuya Stream has a dedicated laundry room on the 11th floor, I took advantage of the pre-dawn hours to get a full load of laundry washed and folded.
 
 Stepping outside, the rain was coming down pretty heavily. I decided to pop into Starbucks downstairs for breakfast, ordering a chocolate banana donut and a sweet potato frappe. The donut was solid, but the sweet potato drink was strange—and worse, I discovered too late that it was completely caffeine-free. Needing an actual caffeine fix to start my day, I headed up to the Google office on the 35th floor to rescue myself with a proper espresso from the coffee bar.
 
-Fully awake, I ducked into local arcades and wandered through MEGA Donki for some shopping. For lunch, I found a comforting soba restaurant inside Tokyu Plaza, then headed upstairs in the same building to check out the Solo Leveling anime exhibition. The walkthrough featured impressive art and full-scale sculptures from the series. After another stroll through the rain, exhaustion caught up with me and I headed back to the hotel for an afternoon reset nap. 
+Fully awake, I ducked into local arcades and wandered through MEGA Donki for some shopping. For lunch, I found a comforting soba restaurant inside Tokyu Plaza, then headed upstairs in the same building to check out the Solo Leveling anime exhibition. The walkthrough featured impressive art and full-scale sculptures from the series. After another stroll through the rain, exhaustion caught up with me and I headed back to the hotel for an afternoon reset nap.
 
 For dinner, I stayed dry by walking through the indoor connection from the hotel into Shibuya Scramble mall, sitting down for a warm and satisfying shabu shabu meal.
 
@@ -43,11 +43,11 @@ For dinner, I stayed dry by walking through the indoor connection from the hotel
   {{< oci_gallery day="day_3" >}}
 {{< /gallery >}}
 
-Another early 5:00 AM wake-up call to pack up my luggage for the morning flight to Shanghai. After catching up on some Discord chats, I checked out around 7:00 AM to take the train over to Haneda Airport before the morning rush hour peaked. 
+Another early 5:00 AM wake-up call to pack up my luggage for the morning flight to Shanghai. After catching up on some Discord chats, I checked out around 7:00 AM to take the train over to Haneda Airport before the morning rush hour peaked.
 
-At Haneda, I checked out the Power Lounge Premium in the Terminal 2 international section. Interestingly, ANA is the only airline operating international flights out of Terminal 2, which made navigating surprisingly smooth. The lounge spread hit the spot with breakfast curry rice, crispy karaage, grilled fish, and hot coffee. 
+At Haneda, I checked out the Power Lounge Premium in the Terminal 2 international section. Interestingly, ANA is the only airline operating international flights out of Terminal 2, which made navigating surprisingly smooth. The lounge spread hit the spot with breakfast curry rice, crispy karaage, grilled fish, and hot coffee.
 
-The flight into Shanghai was smooth and uneventful. Passing through customs was quick, my visa was stamped without issue, and my mobile data connected immediately. I hopped onto the Shanghai Metro toward the city center—it was fascinating to see airport-style luggage scanners at the subway entrance, but the tap-to-pay convenience was effortless. 
+The flight into Shanghai was smooth and uneventful. Passing through customs was quick, my visa was stamped without issue, and my mobile data connected immediately. I hopped onto the Shanghai Metro toward the city center—it was fascinating to see airport-style luggage scanners at the subway entrance, but the tap-to-pay convenience was effortless.
 
 Upon arriving at my hotel, I was pleasantly surprised to receive an upgrade to a room with a fantastic river view. Chiping met me at the hotel, and together we headed over to East Nanjing Road pedestrian shopping street to link up with Abdul. We stopped by Ah Ma's Handmade for tea featuring handmade mochi instead of standard boba, and Chiping walked us through ordering at a Chinese McDonald's, where I tried a wild burger stacked with an egg, fried salmon, and fried shrimp. After browsing through various stores along the strip, we capped off the evening with a food court dinner of roasted chicken, vegetables, and more tea.
 
@@ -59,7 +59,7 @@ Upon arriving at my hotel, I was pleasantly surprised to receive an upgrade to a
 
 I kicked off the morning by taking full advantage of the extensive hotel breakfast buffet, which featured an impressive spread spanning traditional Chinese dishes, Indian specialties, Japanese bites, and Western staples. Fueled up, I took a scenic morning stroll along the iconic Bund and worked my way westward along East Nanjing Road.
 
-Along the way, I got baited by anime store decor into ordering a Luckin Coffee with orange juice—a flavor combination that turned out to be truly vile. I cleansed my palate with some retail therapy, designing a custom shirt at the Jordan store. 
+Along the way, I got baited by anime store decor into ordering a Luckin Coffee with orange juice—a flavor combination that turned out to be truly vile. I cleansed my palate with some retail therapy, designing a custom shirt at the Jordan store.
 
 Later on, I met up with Abdul on West Nanjing Road, and we sat down for an incredible lunch of rich crab roe noodles and crab xiao long bao. As light rain began to fall, we ducked into Shanghai Book World, an expansive multi-story bookstore with a dedicated music floor where I scored a G.E.M. vinyl/CD album. Heading back toward Pudong, I checked out a nearby mall and managed to find the coveted Shanghai-exclusive Adidas track jacket in my size.
 
