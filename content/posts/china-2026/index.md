@@ -130,13 +130,24 @@ As dusk fell, our guide transitioned us straight into Lost Plate's evening huton
 
 It was an unforgettable marathon of a day, seamlessly blending one of the wonders of the world with the best of Beijing's street and hutong food culture.
 
-### Day 8: Exploring Beijing – Day 2
+### Day 8: Wangfujing, Sanlitun Taikoo Li & Nanluoguxiang Snacks
 ---
 {{< gallery >}}
   {{< oci_gallery day="day_8" >}}
 {{< /gallery >}}
 
-Continuing our exploration of Beijing, taking in the sights, culture, and bustling streets.
+We kicked off our second full day in Beijing with classic breakfast comfort food, enjoying a freshly made Jianbing (煎饼果子) folded with egg, scallions, savory sauce, pickled vegetables, and a crunchy fried cracker center (*baocui*). 
+
+We spent the morning walking through the Wangfujing area, stopping by St. Joseph's Church (Wangfujing Catholic Church / 东堂) to admire its historic early-1900s Romanesque revival grey brick facade, before browsing the nearby Disney Store. Later, we hailed a DiDi over to the trendy Sanlitun district to check out the stylish open-air plazas of Taikoo Li, wandering through various flagship storefronts and passing by Shake Shack.
+
+From there, we headed back into the vibrant hutongs of Nanluoguxiang for an afternoon street snack and tea crawl:
+- **Tanghulu (糖葫芦)**: A glossy, hard-candied sugar skewer threaded with fresh strawberry and crisp grapes.
+- **Old Beijing Yogurt (老北京酸奶)**: Sipping thick, chilled fermented yogurt through a straw straight out of the iconic blue-and-white ceramic jar.
+- **Tea Crawl**: Grabbing refreshing fruit teas and milk teas across popular local spots, including Heytea, fragrant floral sips from Molly Tea (茉莉奶白), and sweet drinks from Niulai.
+
+Dinner took a fun, adventurous turn into China's world of creative fast-food fusion:
+- **Tastien (塔斯汀)**: The popular homegrown "Chinese burger" chain famous for using fresh, oven-baked sesame flatbreads instead of standard buns, where we ordered a savory roast duck burger.
+- **China KFC**: Testing out one of their wild experimental creations—a crispy fried chicken fillet nestled inside a dark cocoa bun stamped with an actual Oreo cookie pattern, rounded out with a warm, flaky Portuguese egg tart.
 
 ### Day 9: Departure from Beijing: Flight Out to Osaka
 ---
