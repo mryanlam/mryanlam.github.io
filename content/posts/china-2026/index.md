@@ -138,9 +138,10 @@ It was an unforgettable marathon of a day, seamlessly blending one of the wonder
 
 We kicked off our second full day in Beijing with classic breakfast comfort food, enjoying a freshly made Jianbing (煎饼果子) folded with egg, scallions, savory sauce, pickled vegetables, and a crunchy fried cracker center (*baocui*). 
 
-We spent the morning walking through the Wangfujing area, stopping by St. Joseph's Church (Wangfujing Catholic Church / 东堂) to admire its historic early-1900s Romanesque revival grey brick facade, before browsing the nearby Disney Store. Later, we hailed a DiDi over to the trendy Sanlitun district to check out the stylish open-air plazas of Taikoo Li, wandering through various flagship storefronts and passing by Shake Shack.
+We spent the morning walking through the Wangfujing area, stopping by St. Joseph's Church (Wangfujing Catholic Church / 东堂) to admire its historic early-1900s Romanesque revival grey brick facade. Later, we hailed a DiDi over to the trendy Sanlitun district to check out the stylish open-air plazas of Taikoo Li. We browsed several flagship storefronts and stopped into Shake Shack to try China-exclusive menu items that aren't available in the US—a spicy Sichuan burger and crispy fried shrimp.
 
-From there, we headed back into the vibrant hutongs of Nanluoguxiang for an afternoon street snack and tea crawl:
+From there, we headed back into the vibrant hutongs of Nanluoguxiang for an afternoon street snack and shopping crawl:
+- **Disney Store**: We ducked into the Disney Store tucked right along the hutong street, where I picked up a lovely souvenir for my mom.
 - **Tanghulu (糖葫芦)**: A glossy, hard-candied sugar skewer threaded with fresh strawberry and crisp grapes.
 - **Old Beijing Yogurt (老北京酸奶)**: Sipping thick, chilled fermented yogurt through a straw straight out of the iconic blue-and-white ceramic jar.
 - **Tea Crawl**: Grabbing refreshing fruit teas and milk teas across popular local spots, including Heytea, fragrant floral sips from Molly Tea (茉莉奶白), and sweet drinks from Niulai.
@@ -155,4 +156,8 @@ Dinner took a fun, adventurous turn into China's world of creative fast-food fus
   {{< oci_gallery day="day_9" >}}
 {{< /gallery >}}
 
-Wrapping up our time in China, heading to the airport in Beijing, and boarding our flight across the sea to Osaka, Japan, to kick off Week 2 of the adventure!
+Our final morning in Beijing began with a relaxed breakfast stop at Starbucks for an iced coffee and a warm, cheese-baked savory sausage roll before packing up our bags and checking out of the Grand Hyatt.
+
+Before making our way to the airport, we stopped into Pizza Hut for lunch. In China, Pizza Hut is a full-service sit-down casual restaurant celebrated for its creative crusts and localized menu. We ordered one of their most iconic classics—the **New Orleans-style Roasted Chicken Pizza**, loaded with spiced roasted chicken, mushrooms, and cherry tomatoes on a crimped, cheese-stuffed crown crust.
+
+From there, we headed to the airport for our flight across the sea to Japan. We touched down smoothly at Kansai International Airport (KIX) in Osaka just as evening set in. Stepping into the Kansai-Airport Station concourse, greeted by illuminated paper lanterns and autumn foliage displays, marked the official conclusion of an incredible first week across Shanghai, Jiaxing, and Beijing—and set the stage for Week 2 of our journey through Kansai and Tokyo!
