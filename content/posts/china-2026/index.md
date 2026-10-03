@@ -107,13 +107,28 @@ Pulling into Beijing, we made our way over to the Grand Hyatt Beijing, welcomed 
 
 For dinner, we celebrated our first night in the capital with an exquisite Peking roast duck feast at **Made in China (长安壹号)** inside the Grand Hyatt. The meal kicked off with the ultimate delicacy—crackling, paper-thin duck skin served piping hot and dipped directly into granulated white sugar, melting completely on the tongue. We then wrapped tender, roasted duck meat with sweet bean sauce, julienned scallions, and cucumber into warm, delicate steamed pancakes, paired with a smoky plate of dry-fried string beans with minced pork.
 
-### Day 7: Exploring Beijing – Day 1
+### Day 7: Mutianyu Great Wall & Lost Plate Hutong Food Tour
 ---
 {{< gallery >}}
   {{< oci_gallery day="day_7" >}}
 {{< /gallery >}}
 
-First full day diving into Beijing's historic landmarks, architecture, and iconic local food.
+We dedicated the entire day to the **Lost Plate full-day Great Wall, Hutongs & Evening Food Tour**, an incredible journey seamlessly connecting Beijing's ancient military engineering with its rich culinary heritage.
+
+Our day began with the scenic drive north into the mountainous Huairou district, snacking on warm, freshly roasted sugar-fried chestnuts along the way. Arriving at the **Mutianyu section of the Great Wall**, we took the cable car up to the ridge and spent hours hiking the rugged granite ramparts. The sweeping mountain vistas stretching into the distance were breathtaking as we navigated the steep staircases and explored stone watchtowers, eventually making our way back down the mountain.
+
+At the foot of the wall, our group sat down for a satisfying countryside farmhouse lunch highlighted by classic homestyle comfort food, including perfectly seasoned tomato scrambled eggs and fresh stir-fried greens.
+
+Heading back into the city, our drive took us past Beijing Olympic Park, where we caught great views of the futuristic Beijing Olympic Tower and the iconic woven steel frame of the Bird's Nest (National Stadium). We then dove into the heart of old Beijing, taking a lively afternoon stroll through the bustling, lantern-lit alleyways of **Nanluoguxiang (南锣鼓巷)**.
+
+As dusk fell, our guide transitioned us straight into Lost Plate's evening hutong food crawl around the historic Gulou (Drum Tower) neighborhood:
+- **Rooftop Copper Hotpot**: We gathered on an open-air terrace around a traditional charcoal-fired brass chimney hotpot (北京铜锅涮羊肉). We swished delicate ribbons of fresh, hand-cut mutton through the steaming broth, coated each bite in savory sesame paste (*majiang*), and toasted with cold pints of local craft beer from **Great Leap Brewing**.
+- **Door-Nail Meat Pies (*Mending Roubing*)**: Golden, thick pan-fried beef buns with a satisfyingly crispy crust and juicy filling.
+- **Old Beijing Zhajiangmian**: Chewy hand-pulled noodles topped with dark, fragrant fried soybean paste, crisp shredded cucumber, radishes, celery, and whole soybeans.
+- **Spring Pancakes (*Chun Bing*)**: Delicate, warm steamed pancakes rolled with savory stir-fried bean sprouts, chives, and egg (*Chao Hecai* 炒合菜).
+- **Classics**: Authentic Kung Pao chicken loaded with toasted peanuts and scallion rounds, alongside refreshing garlic smashed cucumber salad.
+
+It was an unforgettable marathon of a day, seamlessly blending one of the wonders of the world with the best of Beijing's street and hutong food culture.
 
 ### Day 8: Exploring Beijing – Day 2
 ---
