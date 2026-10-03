@@ -7,3 +7,7 @@
 /2026_blizzcon/
 /2026_china_japan/
 staging/
+
+# Editor / Workspace files
+*.code-workspace
+.vscode/
