@@ -63,7 +63,7 @@ I kicked off the morning by taking full advantage of the extensive hotel breakfa
 
 Along the way, I got baited by anime store decor into ordering a Luckin Coffee with orange juice—a flavor combination that turned out to be truly vile. I cleansed my palate with some retail therapy, designing a custom shirt at the Jordan store. Later on the pedestrian strip, I checked out "爷爷自在茶" (Grandpa's Tea)—a standalone specialty tea kiosk by KFC—grabbing a refreshing iced tea in an ornate pastel pink cup.
 
-Later on, I met up with Abdul on West Nanjing Road, and we sat down for an incredible lunch of rich crab roe noodles and crab xiao long bao. As light rain began to fall, we ducked into Shanghai Book World, an expansive multi-story bookstore with a dedicated music floor where I scored a G.E.M. vinyl/CD album. Heading back toward Pudong, I checked out a nearby mall and managed to find the coveted Shanghai-exclusive Adidas track jacket in my size.
+Later on, I met up with Abdul on West Nanjing Road, and we sat down for an incredible lunch of rich crab roe noodles and crab xiao long bao. As light rain began to fall, we ducked into Shanghai Book World, an expansive multi-story bookstore with a dedicated music floor where I scored a G.E.M. CD album. Heading back toward Pudong, I checked out a nearby mall and managed to find the coveted Shanghai-exclusive Adidas track jacket in my size.
 
 In the evening, I joined the **Lost Plate Shanghai Evening Food Tour** led by Tony, an energetic guide who grew up in Korea and spent time living in Boston. The group was a great international mix of Australians, Europeans, and Americans—and by pure coincidence, two other tour guests were also Googlers, with one of them (Ben) working in my exact same building! 
 
