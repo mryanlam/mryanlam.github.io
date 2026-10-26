@@ -12,3 +12,6 @@ staging/
 # Editor / Workspace files
 *.code-workspace
 .vscode/
+
+# Agent configuration
+.agents/
