@@ -1,0 +1,10 @@
+{{ $columns := .Get "columns" | default "3" }}
+{{ $title := .Get "title" }}
+<div class="not-prose text-left">
+  {{ with $title }}
+    <h2 class="mt-10 text-2xl font-extrabold mb-6 text-neutral-900 dark:text-neutral">{{ . }}</h2>
+  {{ end }}
+  <div class="my-8 grid gap-4 sm:grid-cols-2 {{ if eq $columns "4" }}grid-balance lg:grid-cols-4 grid-balance-4{{ else if eq $columns "3" }}grid-balance lg:grid-cols-3 grid-balance-3{{ end }}">
+    {{ .Inner }}
+  </div>
+</div>

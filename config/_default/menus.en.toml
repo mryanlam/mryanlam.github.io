@@ -28,66 +28,25 @@
   weight = 20
 
 [[main]]
-  pre = "github"
-  name = "GitHub"
-  url = "https://github.com/mryanlam/"
-  weight = 20
-
-[[main]]
   pre = "file-lines"
   name = "Resume"
   url = "https://objectstorage.us-phoenix-1.oraclecloud.com/p/9zSOm_Gk-v0hyUJWbfeq2iiBcuZ4iZE4xR71u8UhhQCEcJ6E8cZJFHppxM7Ao9aI/n/axlhfpsumuyq/b/mbucket/o/MatthewLamResume.pdf"
+  weight = 20
+
+[[main]]
+  pre = "github"
+  name = "GitHub"
+  url = "https://github.com/mryanlam/"
   weight = 30
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+  pre = "linkedin"
+  name = "LinkedIn"
+  url = "https://linkedin.com/in/mryanlam"
+  weight = 40
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
-
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
-
-#[[main]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
-
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
-
-
-# -- Footer Menu --
-# The footer menu is displayed at the bottom of the page, just before
-# the copyright notice. Configure as per the main menu above.
-
-
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
-
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+[[main]]
+  pre = "email"
+  name = "Email"
+  url = "mailto:matt@mryanlam.com"
+  weight = 50

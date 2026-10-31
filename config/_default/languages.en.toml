@@ -16,7 +16,7 @@ title = "Matthew Lam - Software Engineer/SRE"
 
 [params.author]
 name = "Matthew Lam"
-image = "favicon.png"
+# image = "favicon.png"
 headline = "Software Engineer/SRE"
 bio = "Software Engineer/Site Reliability Engineer at Google. Previously at Oracle Cloud Infrastructure and F5 Networks."
 links = [

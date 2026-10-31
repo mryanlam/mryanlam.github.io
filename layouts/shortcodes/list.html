@@ -1,0 +1,39 @@
+{{ $limit := .Get "limit" | default 1 }}
+{{ $title := .Get "title" | default (i18n "shortcode.recent_articles" | emojify) }}
+{{ $parent := .Page.RelPermalink }}
+{{ $cardView := .Get "cardView" }}
+{{ $where := .Get "where" }}
+{{ $value := .Get "value" }}
+
+{{ $pages := .Site.RegularPages }}
+{{ if $where }}
+  {{ $exact := where .Site.RegularPages $where $value }}
+  {{ if gt (len $exact) 0 }}
+    {{ $pages = $exact }}
+  {{ else }}
+    {{ $pages = where .Site.RegularPages $where "intersect" (slice $value) }}
+  {{ end }}
+{{ end }}
+
+<div class="not-prose text-left">
+  <h2 class="mt-16 text-2xl font-extrabold mb-6 text-neutral-900 dark:text-neutral">{{ $title }}</h2>
+
+  {{ if $cardView | default false }}
+    <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+      {{ range ( $pages | first $limit ) }}
+        {{ if not (eq .RelPermalink $parent) }}
+          {{ partial "article-link/card.html" . }}
+        {{ end }}
+      {{ end }}
+    </section>
+  {{ else }}
+    <section class="space-y-10 w-full mt-6 mb-10">
+      {{ range ( $pages | first $limit ) }}
+        {{ if not (eq .RelPermalink $parent) }}
+          {{ partial "article-link/simple.html" . }}
+        {{ end }}
+      {{ end }}
+    </section>
+  {{ end }}
+</div>
+
